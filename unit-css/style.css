@@ -207,7 +207,7 @@ html, body {
 .flag-btn-label {
   font-family: 'Calibri', Arial, 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 600; font-size: 14px; color: var(--subject-500);
-  text-align: center; width: 80px; line-height: normal;
+  text-align: center; white-space: nowrap; line-height: normal;   /* Arabic "هل وجدتم مشكلة؟" is wider than the old 80px box: one line, centred under the icon */
   direction: rtl; display: none;
 }
 .flag-btn:hover .flag-btn-label,

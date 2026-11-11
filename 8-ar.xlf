@@ -4072,7 +4072,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-003">
         <source>&lt;span class="flag-btn-icon"&gt;&lt;/span&gt; &lt;span class="flag-btn-label"&gt;מצאתם בעיה?&lt;/span&gt;</source>
-        <target>&lt;span class="flag-btn-icon"&gt;&lt;/span&gt; &lt;span class="flag-btn-label"&gt;وجدتم مشكلة؟&lt;/span&gt;</target>
+        <target>&lt;span class="flag-btn-icon"&gt;&lt;/span&gt; &lt;span class="flag-btn-label"&gt;هل وجدتم مشكلة؟&lt;/span&gt;</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
