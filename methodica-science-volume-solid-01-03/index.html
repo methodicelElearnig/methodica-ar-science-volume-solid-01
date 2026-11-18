@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>وحدة تعليمية — قياس حجم المادة الصلبة · تمرين أساسي</title>
-  <link rel="stylesheet" href="../unit-css/style.css?v=20261020">
-  <link rel="stylesheet" href="css/style.css?v=20261020">
+  <link rel="stylesheet" href="../unit-css/style.css?v=20261118c">
+  <link rel="stylesheet" href="css/style.css?v=20261118c">
 </head>
 <body data-subject-theme="science">
 <!-- ═══ Boot cover (ADDING-REPORTING-AND-RESUME.md §8.11) ═══
@@ -76,7 +76,7 @@
       <div class="scq-side">
       <p class="scq-qtext">أيّ من الأجسام في الصورة ليس له شكل هندسي محدد؟</p>
       <div class="scq-answers" id="s1-answers" role="radiogroup" aria-label="أي جسم ليس له شكل هندسي محدد؟">
-        <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="scqSelect('s1','a')"><span class="scq-opt-text">لبنة</span><span aria-hidden="true" class="scq-radio"></span></button>
+        <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="scqSelect('s1','a')"><span class="scq-opt-text">لبنة (قالب طوب)</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="b" onclick="scqSelect('s1','b')"><span class="scq-opt-text">وحش من الصلصال</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="c" onclick="scqSelect('s1','c')"><span class="scq-opt-text">صندوق من الكرتون</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="d" onclick="scqSelect('s1','d')"><span class="scq-opt-text">مكعب خشبي</span><span aria-hidden="true" class="scq-radio"></span></button>
@@ -142,7 +142,7 @@
     </div>
   </section>
   <div class="scq-popup hidden" id="s2-scq-popup" role="status" aria-live="polite"><div class="scq-popup-header"><p class="scq-popup-title" id="s2-scq-popup-title"></p></div><div class="scq-popup-body" id="s2-scq-popup-body"></div></div>
-  <div class="scq-hint-overlay hidden" id="s2-scq-hint-overlay" onclick="if(event.target===this)scqCloseHint('s2')"><div class="scq-hint-popup" role="dialog" aria-modal="true" aria-label="تلميح"><div class="scq-hint-content"><div class="scq-hint-text"><h2 class="scq-hint-title">احسبوا:</h2><div class="scq-hint-body"><p><strong>جسم ليس له شكل هندسي محدّد</strong></p><p>شكلها غير منتظم، وليست مبنية من خطوط مستقيمة أو دوائر، ولا يمكن حساب حجمها باستخدام معادلة.</p></div></div></div><button class="scq-hint-close" type="button" onclick="scqCloseHint('s2')">العودة للسؤال</button></div></div>
+  <div class="scq-hint-overlay hidden" id="s2-scq-hint-overlay" onclick="if(event.target===this)scqCloseHint('s2')"><div class="scq-hint-popup" role="dialog" aria-modal="true" aria-label="تلميح"><div class="scq-hint-content"><div class="scq-hint-text"><h2 class="scq-hint-title">احسبوا:</h2><div class="scq-hint-body"><p><strong>جسم ليس له شكل هندسي محدّد</strong></p><p>شكله غير منتظم، وليس مبنيًا من خطوط مستقيمة أو دوائر، ولا يمكن حساب حجمه باستخدام معادلة.</p></div></div></div><button class="scq-hint-close" type="button" onclick="scqCloseHint('s2')">العودة للسؤال</button></div></div>
 
 
   <!-- ═══ S3 — Basic 3 (item 02-03) · which tool for displacement ═══ -->
@@ -164,7 +164,7 @@
           <button class="dropdown-trigger is-placeholder" id="s3-dropdown-trigger" type="button" onclick="dqToggle('s3')"><span class="dropdown-trigger-text"></span><span class="dropdown-caret" aria-hidden="true">▾</span></button>
           <span class="dropdown-list hidden" id="s3-answers" role="listbox">
             <button class="scq-opt dropdown-opt" type="button" role="option" data-id="a" onclick="dqPick('s3','a','مسطرة')">مسطرة</button>
-            <button class="scq-opt dropdown-opt" type="button" role="option" data-id="b" onclick="dqPick('s3','b','اسطوانة مدرجة')">اسطوانة مدرجة</button>
+            <button class="scq-opt dropdown-opt" type="button" role="option" data-id="b" onclick="dqPick('s3','b','المخبار المدرج')">المخبار المدرج</button>
             <button class="scq-opt dropdown-opt" type="button" role="option" data-id="c" onclick="dqPick('s3','c','ميزان')">ميزان</button>
             <button class="scq-opt dropdown-opt" type="button" role="option" data-id="d" onclick="dqPick('s3','d','ثِقل')">ثِقل</button>
           </span>
@@ -199,9 +199,9 @@
            `scq-qtext--mixed` is the existing seam for that (it beats --textonly's blanket 700
            on source order at equal specificity) and `<b>`, not `<strong>` — `.scq-qtext strong`
            would also repaint the line blue. -->
-      <p class="scq-qtext scq-qtext--mixed">في مصنع لإنتاج المعادن، تم إدخال أسطوانة معدنية في وعاء مملوء بالماء لقياس حجمها بطريقة الإزاحة.<br/>حجم الماء الذي فاض من الوعاء كان 760 ملل.<br/><b>ما حجم الأسطوانة؟</b></p>
+      <p class="scq-qtext scq-qtext--mixed">في مصنع لإنتاج المعادن، تم إدخال أسطوانة معدنية في وعاء مملوء بالماء لقياس حجمها بطريقة الإغمار.<br/>حجم الماء الذي فاض من الوعاء كان 760 ملل.<br/><b>ما حجم الأسطوانة؟</b></p>
       <div class="scq-answers" id="s4-answers" role="radiogroup" aria-label="ما حجم الأسطوانة؟">
-        <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="scqSelect('s4','a')"><span class="scq-opt-text">كمية الماء الأصلية في الوعاء أقل من <span class="nobr">760 ملل</span></span><span aria-hidden="true" class="scq-radio"></span></button>
+        <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="scqSelect('s4','a')"><span class="scq-opt-text">حجم الماء الأصلي في الوعاء أقل من <span class="nobr">760 ملل</span></span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="b" onclick="scqSelect('s4','b')"><span class="scq-opt-text">حجم الأسطوانة هو <span class="nobr">760 ملل</span></span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="c" onclick="scqSelect('s4','c')"><span class="scq-opt-text">لا يمكن معرفة حجم الأسطوانة بناءً على المعطيات المتوفرة</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="d" onclick="scqSelect('s4','d')"><span class="scq-opt-text">يجب وزن الأسطوانة بالميزان لمعرفة حجمها</span><span aria-hidden="true" class="scq-radio"></span></button>
@@ -228,7 +228,7 @@
     </div>
   </section>
   <div class="scq-popup hidden" id="s4-scq-popup" role="status" aria-live="polite"><div class="scq-popup-header"><p class="scq-popup-title" id="s4-scq-popup-title"></p></div><div class="scq-popup-body" id="s4-scq-popup-body"></div></div>
-  <div class="scq-hint-overlay hidden" id="s4-scq-hint-overlay" onclick="if(event.target===this)scqCloseHint('s4')"><div class="scq-hint-popup" role="dialog" aria-modal="true" aria-label="تلميح"><div class="scq-hint-content"><div class="scq-hint-text"><h2 class="scq-hint-title">احسبوا:</h2><div class="scq-hint-body"><p><strong>كم من الماء فاض؟</strong></p><p>في طريقة الإفاضة، نقيس كمية الماء التي فاضت من الوعاء الذي كان مملوءًا بالماء لاكتشاف حجم الجسم.</p></div></div></div><button class="scq-hint-close" type="button" onclick="scqCloseHint('s4')">العودة للسؤال</button></div></div>
+  <div class="scq-hint-overlay hidden" id="s4-scq-hint-overlay" onclick="if(event.target===this)scqCloseHint('s4')"><div class="scq-hint-popup" role="dialog" aria-modal="true" aria-label="تلميح"><div class="scq-hint-content"><div class="scq-hint-text"><h2 class="scq-hint-title">احسبوا:</h2><div class="scq-hint-body"><p><strong>ما حجم الماء الذي فاض؟</strong></p><p>في طريقة الإغمار، نقيس حجم الماء الذي فاض من الوعاء الذي كان مملوءًا بالماء لإيجاد حجم الجسم.</p></div></div></div><button class="scq-hint-close" type="button" onclick="scqCloseHint('s4')">العودة للسؤال</button></div></div>
 
 
   <!-- ═══ S5 — Storyboard slide 98 · mid-section transition ═══
@@ -295,14 +295,14 @@
          glass too) — the blurred window reflection made the glass unreadable. Old set: _soft-bg/.
          Rings: c 19% (air), b 34.7% (the rise, 30.7–38.7), a 50% (original water). -->
     <div class="scq-question scq-question--textonly">
-      <p class="scq-qtext scq-qtext--mixed">في الصورة أ يمكن رؤية حجم الماء في الأسطوانة المدرّجة <b>قبل</b> إدخال دمية الوحش إليها.<br/>في الصورة ب يمكن رؤية حجم الماء في الأسطوانة المدرّجة <b>بعد</b> إدخال دمية الوحش إليها.<br/>حدّدوا في الصورة ب المنطقة التي يمكن فيها رؤية ارتفاع مستوى الماء في الأسطوانة المدرّجة.</p>
+      <p class="scq-qtext scq-qtext--mixed">في الصورة أ يمكن رؤية حجم الماء في المخبار المدرج <b>قبل</b> إدخال دمية الوحش إليه.<br/>في الصورة ب يمكن رؤية حجم الماء في المخبار المدرج <b>بعد</b> إدخال دمية الوحش إليه.<br/>حدّدوا في الصورة ب المنطقة التي يمكن رؤية ارتفاع الماء فيها.</p>
       <div class="hotspot-pair" role="radiogroup" aria-label="حددوا في الصورة ب المنطقة التي ارتفع فيها مستوى الماء">
         <div class="scq-figure scq-figure--square" style="width: 359px">
-          <img src="assets/img/s6-cylinder-before.jpg?v=5" alt="أسطوانة مدرجة بها ماء، وبجانبها دمية وحش صغيرة خضراء">
+          <img src="assets/img/s6-cylinder-before.jpg?v=5" alt="مخبار مدرج به ماء، وبجانبه دمية وحش صغيرة خضراء">
           <span class="scq-figure__label">صورة "أ"</span>
         </div>
         <div class="hotspot-photo hotspot-photo--square" style="width: 359px">
-          <img src="assets/img/s6-cylinder-after.jpg?v=5" alt="نفس الأسطوانة المدرجة بعد إدخال دمية الوحش في الماء">
+          <img src="assets/img/s6-cylinder-after.jpg?v=5" alt="نفس المخبار المدرج بعد إدخال دمية الوحش في الماء">
           <span class="scq-figure__label">صورة "ب"</span>
           <button class="scq-opt hotspot-area" type="button" role="radio" aria-checked="false" data-id="c" onclick="scqSelect('s6','c')" aria-label="المنطقة الفارغة فوق مستوى الماء" style="--x:46.7%;--y:19%;--w:19%;--h:8%"></button>
           <button class="scq-opt hotspot-area" type="button" role="radio" aria-checked="false" data-id="b" onclick="scqSelect('s6','b')" aria-label="منطقة الارتفاع — الإضافة فوق المستوى الأصلي" style="--x:46.7%;--y:34.7%;--w:19%;--h:8%"></button>
@@ -332,7 +332,7 @@
     <div class="scq-question scq-question--textonly">
       <!-- Same shape as s4 (QA 2026-08-30): only the QUESTION is bold, the two data lines are
            regular. `scq-qtext--mixed` + `<b>`, not `<strong>` — see the note on s4. -->
-      <p class="scq-qtext scq-qtext--mixed">مصممة مجوهرات تحتاج إلى معرفة حجم خرزة صغيرة.<br/>بما أنه من الصعب قياس خرزة واحدة بدقة، أدخلت إلى الاسطوانة المدرجة 3 خرزات متطابقة.<span class="s7-para-gap"></span>حجم الماء قبل القياس: 100 ملل. حجم الماء بعد إدخال الخرزات: 130 ملل.<br/><b>ما هو حجم خرزة واحدة؟</b></p>
+      <p class="scq-qtext scq-qtext--mixed">مصممة مجوهرات تحتاج إلى معرفة حجم خرزة صغيرة.<br/>بما أنه من الصعب قياس خرزة واحدة بدقة، أدخلت إلى المخبار المدرج 3 خرزات متطابقة.<span class="s7-para-gap"></span>حجم الماء قبل القياس: 100 ملل. حجم الماء بعد إدخال الخرزات: 130 ملل.<br/><b>ما هو حجم خرزة واحدة؟</b></p>
       <div class="scq-answers" id="s7-answers" role="radiogroup" aria-label="ما حجم خرزة واحدة؟">
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="scqSelect('s7','a')"><span class="scq-opt-text">10 سم³</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt" type="button" role="radio" aria-checked="false" data-id="b" onclick="scqSelect('s7','b')"><span class="scq-opt-text">30 سم³</span><span aria-hidden="true" class="scq-radio"></span></button>
@@ -396,15 +396,15 @@
   </div>
 
 </div><!-- /#app -->
-<script src="../unit-js/10-identity.js?v=20261020"></script>
-<script src="../unit-js/15-ui.js?v=20261020"></script>
-<script src="../unit-js/20-xapi.js?v=20261020"></script>
-<script src="../unit-js/25-report.js?v=20261020"></script>
-<script src="../unit-js/30-nav.js?v=20261020"></script>
-<script src="../unit-js/40-resume.js?v=20261020"></script>
-<script src="../unit-js/50-loader.js?v=20261020"></script>
-<script src="../unit-js/60-devbridge.js?v=20261020"></script>
-<script src="js/main.js?v=20261020"></script>
-<script src="../unit-js/90-boot.js?v=20261020"></script>
+<script src="../unit-js/10-identity.js?v=20261118c"></script>
+<script src="../unit-js/15-ui.js?v=20261118c"></script>
+<script src="../unit-js/20-xapi.js?v=20261118c"></script>
+<script src="../unit-js/25-report.js?v=20261118c"></script>
+<script src="../unit-js/30-nav.js?v=20261118c"></script>
+<script src="../unit-js/40-resume.js?v=20261118c"></script>
+<script src="../unit-js/50-loader.js?v=20261118c"></script>
+<script src="../unit-js/60-devbridge.js?v=20261118c"></script>
+<script src="js/main.js?v=20261118c"></script>
+<script src="../unit-js/90-boot.js?v=20261118c"></script>
 </body>
 </html>

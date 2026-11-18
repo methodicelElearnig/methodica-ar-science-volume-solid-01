@@ -121,7 +121,7 @@ function renderCompanion(n) {
    Feedback now follows each סעיף (producer decision, as in יעד 4 and יעד 9), replacing the combined
    answer slides 157/158. Each סעיף's explanation is its own row of those slides; the retry and
    wrong-final titles are the unit's standard ones (part 05's FB_RETRY / FB_WRONG2). */
-const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجدداً؟'] };
+const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجددًا؟'] };
 const FB_WRONG2 = 'الإجابة غير صحيحة.<br />الإجابة الصحيحة تم تحديدها.';
 const fbPopups = explanation => ({
   retry:   FB_RETRY,

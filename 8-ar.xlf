@@ -86,7 +86,7 @@
       </trans-unit>
       <trans-unit id="08-01-00-004">
         <source>דמות כתומה מחזיקה משורה ריקה</source>
-        <target>شخصية برتقالية تحمل أسطوانة مدرجة فارغة</target>
+        <target>شخصية برتقالية تحمل مخبارًا مدرجًا فارغًا</target>
         <note from="screen-id">08-01-00</note>
         <note from="screen-title">מי תלווה אותנו בלמידה?</note>
         <note from="screen-type">other</note>
@@ -126,7 +126,7 @@
       </trans-unit>
       <trans-unit id="08-01-01-002">
         <source>סרטון: רוני מוצאת תליון זהב על חוף הים</source>
-        <target>فيديو: ملك  تجد قلادة ذهبية على شاطئ البحر</target>
+        <target>فيديو: ملك تجد قلادة ذهبية على شاطئ البحر</target>
         <note from="screen-id">08-01-01</note>
         <note from="screen-title">רוני מצאה אוצר?</note>
         <note from="screen-type">other</note>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="08-01-01-005">
         <source>איך רוני יכולה לדעת&lt;br/&gt;מה נפח התליון?</source>
-        <target>كيف يمكن لملك  أن تعرف&lt;br/&gt;ما حجم القلادة؟</target>
+        <target>كيف يمكن لملك أن تعرف&lt;br/&gt;ما حجم القلادة؟</target>
         <note from="screen-id">08-01-01</note>
         <note from="screen-title">רוני מצאה אוצר?</note>
         <note from="screen-type">other</note>
@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="08-01-01-006">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-01</note>
         <note from="screen-title">רוני מצאה אוצר?</note>
         <note from="screen-type">other</note>
@@ -187,7 +187,7 @@
       </trans-unit>
       <trans-unit id="08-01-02-001">
         <source>רוני מחזיקה את התליון ביד אחת ומשורה עם מים ביד השנייה</source>
-        <target>ملك تمسك القلادة بيد واحدة وأسطوانة مدرجة فيها ماء باليد الأخرى</target>
+        <target>ملك تمسك القلادة بيد واحدة ومخبارًا مدرجًا فيه ماء باليد الأخرى</target>
         <note from="screen-id">08-01-02</note>
         <note from="screen-type">other</note>
         <note from="element-role">image-alt</note>
@@ -241,7 +241,7 @@
       </trans-unit>
       <trans-unit id="08-01-03-001">
         <source>רוני מחזיקה את התליון ומשורה עם מים</source>
-        <target>ملك تمسك القلادة وأسطوانة مدرجة بها ماء</target>
+        <target>ملك تمسك القلادة ومخبارًا مدرجًا به ماء</target>
         <note from="screen-id">08-01-03</note>
         <note from="screen-type">other</note>
         <note from="element-role">image-alt</note>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="08-01-03-004">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-03</note>
         <note from="screen-type">other</note>
         <note from="element-role">button-label</note>
@@ -346,7 +346,7 @@
       </trans-unit>
       <trans-unit id="08-01-04-007">
         <source>כדי לדעת כמה אדמה למלא באדנית</source>
-        <target>لمعرفة كمية التراب التي يجب ملؤها في حوض الزراعة</target>
+        <target>لمعرفة التراب اللازم لملء حوض الزراعة بالكامل</target>
         <note from="screen-id">08-01-04</note>
         <note from="screen-title">למה חשוב למדוד נפח של חפץ מוצק?</note>
         <note from="screen-type">other</note>
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit id="08-01-04-012">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-04</note>
         <note from="screen-title">למה חשוב למדוד נפח של חפץ מוצק?</note>
         <note from="screen-type">other</note>
@@ -426,7 +426,7 @@
       </trans-unit>
       <trans-unit id="08-01-05-002">
         <source>המלך הירון וארכימדס בוחנים כתר זהב מעוטר, על השולחן משורת מים וקוביות מתכת</source>
-        <target>الملك هيرون وأرخميدس يفحصان تاجًا ذهبيًا مزخرفًا، وعلى الطاولة أسطوانة مدرجة مملوءة بالماء ومكعبات معدنية</target>
+        <target>الملك هيرون وأرخميدس يفحصان تاجًا ذهبيًا مزخرفًا، وعلى الطاولة مخبار مدرج مملوء بالماء ومكعبات معدنية</target>
         <note from="screen-id">08-01-05</note>
         <note from="screen-title">ידעתם שהשיטה למדידת נפח הומצאהלפני אלפי שנים ביוון העתיקה?</note>
         <note from="screen-type">other</note>
@@ -466,7 +466,7 @@
       </trans-unit>
       <trans-unit id="08-01-05-006">
         <source>ארכימדס הבין שעליו למדוד תחילה את נפח הכתר,&lt;br/&gt;אך צורתו המורכבת והמעוטרת הקשתה עליו&lt;br/&gt;למצוא דרך לעשות זאת.</source>
-        <target>أدرك أرخميدس أنه يجب عليه أولاً قياس حجم التاج،&lt;br/&gt;لكن شكله المعقّد والمزخرف صعّب عليه&lt;br/&gt;إيجاد طريقة للقيام بذلك.</target>
+        <target>أدرك أرخميدس أنه يجب عليه أولًا قياس حجم التاج،&lt;br/&gt;لكن شكله المعقّد والمزخرف صعّب عليه&lt;br/&gt;إيجاد طريقة للقيام بذلك.</target>
         <note from="screen-id">08-01-05</note>
         <note from="screen-title">ידעתם שהשיטה למדידת נפח הומצאהלפני אלפי שנים ביוון העתיקה?</note>
         <note from="screen-type">other</note>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="08-01-05-007">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-05</note>
         <note from="screen-title">ידעתם שהשיטה למדידת נפח הומצאהלפני אלפי שנים ביוון העתיקה?</note>
         <note from="screen-type">other</note>
@@ -514,7 +514,7 @@
       </trans-unit>
       <trans-unit id="08-01-06-003">
         <source>ארכימדס באמבטיה מחזיק כתר, המים גולשים מהאמבט</source>
-        <target>أرخميدس في حوض الاستحمام يمسك تاجاً، والماء يفيض من الحوض</target>
+        <target>أرخميدس في حوض الاستحمام يمسك تاجًا، والماء يفيض من الحوض</target>
         <note from="screen-id">08-01-06</note>
         <note from="screen-type">other</note>
         <note from="element-role">attribute:data-zoom-alt</note>
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="08-01-06-007">
         <source>הוא הבין שאפשר &lt;strong&gt;למדוד נפח של גוף לפי כמות המים שהוא דוחק החוצה מהכלי בו הוא נמצא&lt;/strong&gt;, וקרא בהתלהבות: "אאוריקה!" "מצאתי!".</source>
-        <target>فهم أنه يمكن قياس حجم جسم من خلال كمية الماء التي يزيحها من الوعاء الذي يوجد فيه، وصرخ بحماس: "يوريكا!" "وجدتها!".</target>
+        <target>فهم أنه يمكن قياس حجم جسم من خلال حجم الماء الذي يزيحه من الوعاء الذي يوجد فيه، وصرخ بحماس: "يوريكا!" "وجدتها!".</target>
         <note from="screen-id">08-01-06</note>
         <note from="screen-type">other</note>
         <note from="element-role">paragraph</note>
@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="08-01-06-009">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-06</note>
         <note from="screen-type">other</note>
         <note from="element-role">button-label</note>
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="08-01-08-004">
         <source>לוח קומיקס</source>
-        <target>لوحة  قصص مصوّرة</target>
+        <target>لوحة قصص مصوّرة</target>
         <note from="screen-id">08-01-08</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">aria-roledescription</note>
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="08-01-08-009">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-08</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -874,7 +874,7 @@
       </trans-unit>
       <trans-unit id="08-01-09-009">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-09</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="08-01-09-011">
         <source>מימין ארכימדס מודד תיבה בעזרת סרגל ומחשב את נפחה, משמאל מונחים על השולחן מפתח, בלוט וגולה.</source>
-        <target>على اليمين، يقيس أرخميدس صندوقًا بمساعدة مسطرة ويحسب حجمه، وعلى اليسار نضع على الطاولة مفتاح, بلّوطة وكرة</target>
+        <target>على اليمين، يقيس أرخميدس صندوقًا بمساعدة مسطرة ويحسب حجمه، وعلى اليسار نضع على الطاولة مفتاح، بلّوطة وكرة</target>
         <note from="screen-id">08-01-09</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">image-alt</note>
@@ -976,7 +976,7 @@
       </trans-unit>
       <trans-unit id="08-01-10-005">
         <source>נחשו: איך נמדוד נפח של גופים שאינם הנדסיים בעלי&lt;br/&gt;צורות שונות (למשל, כתר)?</source>
-        <target>خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات&lt;br/&gt;أشكال مختلفة (مثلاً، تاج)؟</target>
+        <target>خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات&lt;br/&gt;أشكال مختلفة (مثلًا، تاج)؟</target>
         <note from="screen-id">08-01-10</note>
         <note from="screen-title">מדידת נפח של גוף שאינו הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -986,7 +986,7 @@
       </trans-unit>
       <trans-unit id="08-01-10-006">
         <source>נחשו: איך נמדוד נפח של גופים שאינם הנדסיים בעלי צורות שונות (למשל, כתר)?</source>
-        <target>خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات أشكال مختلفة (مثلاً، تاج)؟</target>
+        <target>خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات أشكال مختلفة (مثلًا، تاج)؟</target>
         <note from="screen-id">08-01-10</note>
         <note from="screen-title">מדידת נפח של גוף שאינו הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1046,7 +1046,7 @@
       </trans-unit>
       <trans-unit id="08-01-10-012">
         <source>בהמשך נלמד בדיוק איך עושים את זה!</source>
-        <target>سنتعلم لاحقًا كيف نقوم بذلك بالضبط !</target>
+        <target>سنتعلم لاحقًا كيف نقوم بذلك بالضبط!</target>
         <note from="screen-id">08-01-10</note>
         <note from="screen-title">מדידת נפח של גוף שאינו הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1076,7 +1076,7 @@
       </trans-unit>
       <trans-unit id="08-01-10-015">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-10</note>
         <note from="screen-title">מדידת נפח של גוף שאינו הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="08-01-11-009">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -1186,7 +1186,7 @@
       </trans-unit>
       <trans-unit id="08-01-11-011">
         <source>ארכימדס מחזיק משורה מלאה במים וגולה; עיגול הגדלה מראה שמפלס המים עומד על 50 מ"ל.</source>
-        <target>أرخميدس يمسك بأسطوانة مدرجة مملوءة بالماء وبكرة؛ تُظهر دائرة التكبير أن مستوى الماء عند 50 ملل.</target>
+        <target>أرخميدس يمسك بمخبار مدرج مملوء بالماء وبكرة؛ تُظهر دائرة التكبير أن مستوى الماء عند 50 ملل.</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">image-alt</note>
@@ -1195,7 +1195,7 @@
       </trans-unit>
       <trans-unit id="08-01-11-012">
         <source>ארכימדס ממלא את המשורה במים ומתעד עד לאן המים מגיעים: 50 מ"ל.</source>
-        <target>أرخميدس يملأ الأسطوانة المدرجة بالماء ويسجّل إلى أين يصل الماء: 50 ملل.</target>
+        <target>أرخميدس يملأ المخبار المدرج بالماء ويسجّل إلى أين يصل الماء: 50 ملل.</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">comic-caption</note>
@@ -1205,7 +1205,7 @@
       <trans-unit id="08-01-11-013">
         <source>אם נכניס את הגולה למשורה
 – מפלס המים יעלה!</source>
-        <target>إذا أدخلنا الكرة في الأسطوانة المدرجة
+        <target>إذا أدخلنا الكرة في المخبار المدرج
 – سيرتفع مستوى الماء!</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1215,7 +1215,7 @@
       </trans-unit>
       <trans-unit id="08-01-11-014">
         <source>ארכימדס מסתכל אל המשורה וחושב.</source>
-        <target>أرخميدس ينظر إلى الأسطوانة المدرجة ويفكّر.</target>
+        <target>أرخميدس ينظر إلى المخبار المدرج ويفكّر.</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">image-alt</note>
@@ -1224,7 +1224,7 @@
       </trans-unit>
       <trans-unit id="08-01-11-015">
         <source>אחרי שארכימדס הכניס את הגולה למשורה עם המים, מפלס המים עלה ל-62 מ"ל.</source>
-        <target>بعد أن أدخل أرخميدس الكرة إلى الأسطوانة المدرجة مع الماء، ارتفع مستوى الماء إلى 62 ملل.</target>
+        <target>بعد أن أدخل أرخميدس الكرة إلى المخبار المدرج مع الماء، ارتفع مستوى الماء إلى 62 ملل.</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">comic-caption</note>
@@ -1256,13 +1256,8 @@
       <trans-unit id="08-01-11-018">
         <source>אה! כמות המים **החדשה** פחות
 כמות המים **המקורית** = נפח הגולה!</source>
-        <target>آه! كمية الماء {1}الجديدة{/1} ناقص
-كمية الماء {1}الأصلية{/1} = حجم الكرة!
-
-I need to reconsider - the source doesn't contain placeholders, it uses ** for bold. Let me retranslate:
-
-آه! كمية الماء **الجديدة** ناقص
-كمية الماء **الأصلية** = حجم الكرة!</target>
+        <target>آه! حجم الماء **الجديد** ناقص
+حجم الماء **الأصلي** = حجم الكرة!</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">text</note>
@@ -1271,7 +1266,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-11-019">
         <source>זום על המשורה: הגולה בתוך המים ומפלס המים מגיע ל-62 מ"ל.</source>
-        <target>تكبير على الأسطوانة المدرجة: الكرة داخل الماء ومستوى الماء يصل إلى 62 ملل.</target>
+        <target>تكبير على المخبار المدرج: الكرة داخل الماء ومستوى الماء يصل إلى 62 ملل.</target>
         <note from="screen-id">08-01-11</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">image-alt</note>
@@ -1363,7 +1358,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-12-004">
         <source>מדידת נפח לגוף שאינו נכנס במשורה</source>
-        <target>قياس حجم جسم لا يتّسع في الأسطوانة المدرجة</target>
+        <target>قياس حجم جسم لا يتّسع في المخبار المدرج</target>
         <note from="screen-id">08-01-12</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1373,7 +1368,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-12-005">
         <source>&lt;strong&gt;נחשו: מה לגבי גופים גדולים שלא נכנסים במשורה?&lt;/strong&gt;</source>
-        <target>تخمين: ماذا عن الأجسام الكبيرة التي لا تدخل في الأسطوانة المدرجة؟</target>
+        <target>تخمين: ماذا عن الأجسام الكبيرة التي لا تدخل في المخبار المدرج؟</target>
         <note from="screen-id">08-01-12</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1383,7 +1378,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-12-006">
         <source>נחשו: מה לגבי גופים גדולים שלא נכנסים במשורה?</source>
-        <target>خمّنوا: ماذا بالنسبة للأجسام الكبيرة التي لا تدخل في الأسطوانة المدرجة؟</target>
+        <target>خمّنوا: ماذا بالنسبة للأجسام الكبيرة التي لا تدخل في المخبار المدرج؟</target>
         <note from="screen-id">08-01-12</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1463,7 +1458,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-12-014">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-12</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -1555,7 +1550,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-13-009">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-13</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -1584,7 +1579,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
         <source>או! אני שמח ששאלתם מה לגבי
 גופים שלא נכנסים במשורה.</source>
         <target>أوه! أنا سعيد لأنكم سألتم عن
-أجسام لا تدخل في الأسطوانة المدرجة.</target>
+أجسام لا تدخل في المخبار المدرج.</target>
         <note from="screen-id">08-01-13</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">text</note>
@@ -1738,7 +1733,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-13-028">
         <source>זוהי שיטת ההצפה!</source>
-        <target>هذه هي طريقة الإفاضة!</target>
+        <target>هذه هي طريقة الإغمار!</target>
         <note from="screen-id">08-01-13</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">comic-banner</note>
@@ -1839,7 +1834,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-14-009">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-14</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -2009,7 +2004,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-15-008">
         <source>לפניכם אקווריום בצורת קובייה.&lt;br/&gt;כמה מים צריך &lt;strong&gt;כדי למלא אותו עד הקצה&lt;/strong&gt;?</source>
-        <target>أمامكم حوض أسماك على شكل مكعب.كم نحتاج من الماء لملئه حتى الحافة؟</target>
+        <target>أمامكم حوض أسماك على شكل مكعب. كم نحتاج من الماء لملئه حتى الحافة؟</target>
         <note from="screen-id">08-01-15</note>
         <note from="screen-title">מדידת נפח של גוף הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2019,7 +2014,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-15-009">
         <source>כמה מים צריך כדי למלא את האקווריום עד הקצה?</source>
-        <target>أمامكم حوض أسماك على شكل مكعب.كم نحتاج من الماء لملئه حتى الحافة؟</target>
+        <target>أمامكم حوض أسماك على شكل مكعب. كم نحتاج من الماء لملئه حتى الحافة؟</target>
         <note from="screen-id">08-01-15</note>
         <note from="screen-title">מדידת נפח של גוף הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2279,7 +2274,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-16-013">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-16</note>
         <note from="screen-title">מדידת נפח לגוף שאינו הנדסי</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2339,7 +2334,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-17-005">
         <source>הכניסו את הגולה אל תוך המשורה.</source>
-        <target>أدخلوا الكرة إلى داخل الاسطوانة المدرجة.</target>
+        <target>أدخلوا الكرة إلى داخل المخبار المدرج.</target>
         <note from="screen-id">08-01-17</note>
         <note from="screen-title">שיטת ארכימדס – "דחיקת מים"</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2349,7 +2344,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-17-006">
         <source>משורה מדורגת עם מים עד קו 50 מ"ל</source>
-        <target>الاسطوانة المدرجة يحتوي على ماء حتى خط 50 ملل</target>
+        <target>المخبار المدرج يحتوي على ماء حتى خط 50 ملل</target>
         <note from="screen-id">08-01-17</note>
         <note from="screen-title">שיטת ארכימדס – "דחיקת מים"</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2390,7 +2385,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-17-010">
         <source>גררו אותי למשורה</source>
-        <target>اسحبوني إلى الاسطوانة المدرجة</target>
+        <target>اسحبوني إلى المخبار المدرج</target>
         <note from="screen-id">08-01-17</note>
         <note from="screen-title">שיטת ארכימדס – "דחיקת מים"</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2410,7 +2405,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-17-012">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-17</note>
         <note from="screen-title">שיטת ארכימדס – "דחיקת מים"</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2457,7 +2452,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-18-004">
         <source>עיקרון ארכימדס אומר שכשמכניסים גוף למים, מפלס המים עולה &lt;strong&gt;בכמות שווה לנפח הגוף בדיוק.&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;מסקנה:&lt;/strong&gt;</source>
-        <target>مبدأ أرخميدس يقول أنه عندما نغمر جسم في الماء، يرتفع منسوب الماء &lt;strong&gt;بكمية مساوية لحجم الجسم تمامًا.&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;الخلاصة:&lt;/strong&gt;</target>
+        <target>مبدأ أرخميدس يقول أنه عندما نغمر جسم في الماء، يرتفع منسوب الماء &lt;strong&gt;بحجم يساوي حجم الجسم تمامًا.&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;الخلاصة:&lt;/strong&gt;</target>
         <note from="screen-id">08-01-18</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">paragraph</note>
@@ -2475,7 +2470,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-18-006">
         <source>משורה מדורגת ובתוכה הגולה; מפלס המים עלה מ-50 מ"ל (נפח מים התחלתי) ל-62 מ"ל (נפח מים סופי), ולכן נפח הגולה 12 סמ"ק</source>
-        <target>بداخل الاسطوانة المدرجة الكرة الزجاجية؛ ارتفع مستوى الماء من 50 ملل (الحجم الابتدائي للماء) إلى 62 ملل (الحجم النهائي للماء)، ولذلك حجم الكرة الزجاجية 12 سم³</target>
+        <target>بداخل المخبار المدرج الكرة الزجاجية؛ ارتفع مستوى الماء من 50 ملل (الحجم الابتدائي للماء) إلى 62 ملل (الحجم النهائي للماء)، ولذلك حجم الكرة الزجاجية 12 سم³</target>
         <note from="screen-id">08-01-18</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">aria-label</note>
@@ -2513,7 +2508,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-18-010">
         <source>&lt;span&gt;ומה נעשה עם גופים מסיסים במים?&lt;/span&gt;&lt;span&gt;לחצו לגלות&lt;/span&gt;</source>
-        <target>وماذا نفعل مع الأجسام القابلة للذوبان في الماء؟اضغطوا لاكتشاف ذلك</target>
+        <target>وماذا نفعل مع الأجسام القابلة للذوبان في الماء؟ اضغطوا لاكتشاف ذلك</target>
         <note from="screen-id">08-01-18</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -2531,7 +2526,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-18-012">
         <source>אפשר לעטוף גופים שרגישים למים בשכבת מגן דקה לפני שמכניסים למשורה.</source>
-        <target>يمكن تغليف الأجسام الحساسة للماء بطبقة واقية رقيقة قبل إدخالها في الاسطوانة المدرجة.</target>
+        <target>يمكن تغليف الأجسام الحساسة للماء بطبقة واقية رقيقة قبل إدخالها في المخبار المدرج.</target>
         <note from="screen-id">08-01-18</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">paragraph</note>
@@ -2540,7 +2535,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-18-013">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-18</note>
         <note from="screen-type">Comic panel screen</note>
         <note from="element-role">button-label</note>
@@ -2588,7 +2583,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-19-004">
         <source>מדידת נפח לגוף שאינו נכנס במשורה</source>
-        <target>قياس حجم جسم لا يتّسع في الأسطوانة المدرجة</target>
+        <target>قياس حجم جسم لا يتّسع في المخبار المدرج</target>
         <note from="screen-id">08-01-19</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2598,7 +2593,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-19-005">
         <source>נחשו – איך נמדוד נפח של גופים גדולים שלא נכנסים במשורה?</source>
-        <target>خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في الاسطوانة المدرجة؟</target>
+        <target>خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في المخبار المدرج؟</target>
         <note from="screen-id">08-01-19</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2608,7 +2603,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-19-006">
         <source>נחשו – איך נמדוד נפח של גופים גדולים שלא נכנסים במשורה?</source>
-        <target>خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في الاسطوانة المدرجة؟</target>
+        <target>خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في المخبار المدرج؟</target>
         <note from="screen-id">08-01-19</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2658,7 +2653,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-19-011">
         <source>אבן גדולה מונחת ליד משורה קטנה שהיא לא נכנסת לתוכה</source>
-        <target>حجر كبير موضوع بجانب الاسطوانة المدرجة صغيرة لا يمكنه الدخول فيها</target>
+        <target>حجر كبير موضوع بجانب مخبار مدرج صغير لا يمكنه الدخول فيه</target>
         <note from="screen-id">08-01-19</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2678,7 +2673,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-19-013">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-19</note>
         <note from="screen-title">מדידת נפח לגוף שאינו נכנס במשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2728,7 +2723,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-20-004">
         <source>"שיטת ההצפה" לגוף שאינו נכנס למשורה</source>
-        <target>"طريقة الإغمار" لجسم لا يدخل في الاسطوانة المدرجة</target>
+        <target>"طريقة الإغمار" لجسم لا يدخل في المخبار المدرج</target>
         <note from="screen-id">08-01-20</note>
         <note from="screen-title">"שיטת ההצפה" לגוף שאינו נכנס למשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2788,7 +2783,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-20-010">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-20</note>
         <note from="screen-title">"שיטת ההצפה" לגוף שאינו נכנס למשורה</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2868,7 +2863,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-21-007">
         <source>&lt;strong&gt;כמות המים שגלשו מהקערה&lt;br/&gt;=&lt;br/&gt;נפח הסלע!&lt;/strong&gt;</source>
-        <target>كمية الماء التي فاضت من الوعاء = حجم الصخرة!</target>
+        <target>حجم الماء الذي فاض من الوعاء = حجم الصخرة!</target>
         <note from="screen-id">08-01-21</note>
         <note from="screen-title">מה קרה כאן?</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2908,7 +2903,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-21-011">
         <source>&lt;span&gt;ומה נעשה עם גופים שאינם שוקעים?&lt;/span&gt;&lt;span&gt;לחצו לגלות&lt;/span&gt;</source>
-        <target>وماذا نفعل مع الأجسام التي لا تغرق؟اضغطوا لاكتشاف ذلك</target>
+        <target>وماذا نفعل مع الأجسام التي لا تغرق؟ اضغطوا لاكتشاف ذلك</target>
         <note from="screen-id">08-01-21</note>
         <note from="screen-title">מה קרה כאן?</note>
         <note from="screen-type">Comic panel screen</note>
@@ -2938,7 +2933,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-21-014">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-21</note>
         <note from="screen-title">מה קרה כאן?</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3078,7 +3073,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-22-013">
         <source>&lt;span class="flip-back-text"&gt;ארכיאולוגים מודדים נפח של פסלים וחפצים עתיקים בשיטות דחיקת המים וההצפה, מבלי לפגוע בהם.&lt;/span&gt;</source>
-        <target>يقوم علماء الآثار بقياس حجم التماثيل والقطع الأثرية القديمة باستخدام طرق إزاحة الماء والإفاضة، دون إلحاق الضرر بها.</target>
+        <target>يقوم علماء الآثار بقياس حجم التماثيل والقطع الأثرية القديمة باستخدام طرق إزاحة الماء والإغمار، دون إلحاق الضرر بها.</target>
         <note from="screen-id">08-01-22</note>
         <note from="screen-title">איך מדידת נפח של מוצק נראית בעולם האמיתי?</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3098,7 +3093,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-22-015">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-22</note>
         <note from="screen-title">איך מדידת נפח של מוצק נראית בעולם האמיתי?</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3158,7 +3153,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-23-005">
         <source>משורה מדורגת; מפלס המים ההתחלתי מסומן ב-50 מ"ל</source>
-        <target>الاسطوانة المدرجة؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل</target>
+        <target>المخبار المدرج؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل</target>
         <note from="screen-id">08-01-23</note>
         <note from="screen-title">בואו נמדוד נפח של חפצים שונים!</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3189,7 +3184,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-23-008">
         <source>משורה</source>
-        <target>اسطوانة مدرجة</target>
+        <target>مخبار مدرج</target>
         <note from="screen-id">08-01-23</note>
         <note from="screen-title">בואו נמדוד נפח של חפצים שונים!</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3279,7 +3274,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-23-017">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-23</note>
         <note from="screen-title">בואו נמדוד נפח של חפצים שונים!</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3339,7 +3334,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-24-005">
         <source>משורה מדורגת; מפלס המים ההתחלתי מסומן ב-50 מ"ל</source>
-        <target>أسطوانة مدرجة؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل</target>
+        <target>مخبار مدرج؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل</target>
         <note from="screen-id">08-01-24</note>
         <note from="screen-title">בואו נמדוד נפח של חפצים שונים!</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3371,7 +3366,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-24-008">
         <source>משורה</source>
-        <target>اسطوانة مدرجة</target>
+        <target>مخبار مدرج</target>
         <note from="screen-id">08-01-24</note>
         <note from="screen-title">בואו נמדוד נפח של חפצים שונים!</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3511,7 +3506,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-24-022">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-24</note>
         <note from="screen-title">בואו נמדוד נפח של חפצים שונים!</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3684,7 +3679,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-26-010">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-01-26</note>
         <note from="screen-title">הכלי עובד כך</note>
         <note from="screen-type">Comic panel screen</note>
@@ -3834,7 +3829,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-28-011">
         <source>תחילה חשבו — מה רוצים למדוד בכל משימה? אורך, מסה, נפח של נוזל, או נפח של גוף מוצק? אחר כך בחרו כלי מדידה מתאים.</source>
-        <target>أولاً فكّروا — ماذا نريد أن نقيس في كل مهمة؟ طول، كتلة، حجم سائل، أم حجم جسم صلب؟ بعد ذلك اختاروا أداة قياس مناسبة.</target>
+        <target>أولًا فكّروا — ماذا نريد أن نقيس في كل مهمة؟ طول، كتلة، حجم سائل، أم حجم جسم صلب؟ بعد ذلك اختاروا أداة قياس مناسبة.</target>
         <note from="screen-id">08-01-28</note>
         <note from="screen-type">DragAndDropQuestion</note>
         <note from="element-role">paragraph</note>
@@ -3912,7 +3907,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-29-007">
         <source>כדי למדוד נפח של מחדד, נכניס אותו למים שבמשורה ונבדוק כמה הם:</source>
-        <target>لقياس حجم مبراة، نضعها في الماء الموجود في الأسطوانة المدرجة ونتحقق كم:</target>
+        <target>لقياس حجم مبراة، نضعها في الماء الموجود في المخبار المدرج ونتحقق كم:</target>
         <note from="screen-id">08-01-29</note>
         <note from="screen-title">עיקרון דחיקת המים</note>
         <note from="screen-type">DropdownQuestion</note>
@@ -4392,7 +4387,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-035">
         <source>הכניסו את הגולה אל תוך המשורה.</source>
-        <target>أدخلوا الكرة إلى داخل الأسطوانة المدرجة.</target>
+        <target>أدخلوا الكرة إلى داخل المخبار المدرج.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4452,7 +4447,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-041">
         <source>שננסה שוב?</source>
-        <target>هل نحاول مجدداً؟</target>
+        <target>هل نحاول مجددًا؟</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4482,7 +4477,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-044">
         <source>למדידת נפח של תיבה משתמשים בסרגל: מודדים את אחת מצלעות הקובייה ומכפילים אותו בעצמו שלוש פעמים - פעם אחת לאורך, פעם אחת לרוחב ופעם אחת לגובה.</source>
-        <target>لقياس حجم صندوق نستخدم المسطرة: نقيس أحد أضلاع المكعب ونضربه في نفسه ثلاث مرات - مرة للطول، ومرة للعرض، ومرة للارتفاع.</target>
+        <target>لقياس حجم مكعب نستخدم المسطرة: نقيس أحد أضلاع المكعب ونضربه في نفسه ثلاث مرات - مرة للطول، ومرة للعرض، ومرة للارتفاع.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4652,7 +4647,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-061">
         <source>מזיגה למשורה</source>
-        <target>سكب في اسطوانة مدرجة</target>
+        <target>سكب في مخبار مدرج</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4762,7 +4757,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-072">
         <source>כדי לבחור נכון, חשוב לזהות מה רוצים למדוד והאם מדובר בנוזל, בגוף בעל צורה הנדסית או בגוף בעל צורה מורכבת.</source>
-        <target>لاختيار الطريقة الصحيحة، من المهم تحديد ما نريد قياسه وما إذا كان سائلاً، أو جسمًا ذا شكل هندسي، أو جسمًا ذا شكل معقّد.</target>
+        <target>لاختيار الطريقة الصحيحة، من المهم تحديد ما نريد قياسه وما إذا كان سائلًا، أو جسمًا ذا شكل هندسي، أو جسمًا ذا شكل معقّد.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4782,7 +4777,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-074">
         <source>כשמכניסים גוף מוצק למים, הגוף תופס מקום בתוך המשורה ולכן מפלס המים עולה.</source>
-        <target>عندما نضع جسمًا صلبًا في الماء، يشغل الجسم حيزًا داخل الاسطوانة المدرجة ولذلك يرتفع مستوى الماء.</target>
+        <target>عندما نضع جسمًا صلبًا في الماء، يشغل الجسم حيزًا داخل المخبار المدرج ولذلك يرتفع مستوى الماء.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4862,7 +4857,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-082">
         <source>שלב 2: מדדו את מפלס המים במשורה כעת והקלידו את נפחו של כלי השח-מט.</source>
-        <target>المرحلة 2: قيسوا مستوى الماء في الاسطوانة المدرجة الآن وأدخلوا حجم قطعة الشطرنج.</target>
+        <target>المرحلة 2: قيسوا مستوى الماء في المخبار المدرج الآن وأدخلوا حجم قطعة الشطرنج.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4882,7 +4877,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-084">
         <source>נפח כלי השח-מט הוא 15 מ"ל. מפלס המים המקורי במשורה היה 50 מ"ל והוא עלה ל-65 מ"ל, ולכן: ⁦65 − 50 = 15⁩.</source>
-        <target>حجم قطعة الشطرنج هو 15 ملل. مستوى الماء الأصلي في الاسطوانة المدرجة كان 50 ملل وارتفع إلى 65 ملل، ولذلك: ⁦65 − 50 = 15⁩.</target>
+        <target>حجم قطعة الشطرنج هو 15 ملل. مستوى الماء الأصلي في المخبار المدرج كان 50 ملل وارتفع إلى 65 ملل، ولذلك: ⁦65 − 50 = 15⁩.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4902,7 +4897,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-086">
         <source>איך נמדוד נפח של פטיש – בדחיקת מים (במשורה) או בהצפת מים (בקערת הצפה)?&lt;br&gt;&lt;strong&gt;גררו את הפטיש אל כלי המדידה המתאים.&lt;/strong&gt;</source>
-        <target>كيف نقيس حجم المطرقة – بإزاحة الماء (في الاسطوانة المدرجة) أم بإفاضة الماء (في وعاء الإفاضة)؟اسحبوا المطرقة إلى أداة القياس المناسبة.</target>
+        <target>كيف نقيس حجم المطرقة – بإزاحة الماء (في المخبار المدرج) أم بالإغمار (في وعاء التجميع)؟اسحبوا المطرقة إلى أداة القياس المناسبة.</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -4932,7 +4927,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-01-99-089">
         <source>המים שנשפכו היו בנפח 250 מ"ל — כלומר נפח הפטיש הוא 250 מ"ל, כי הוא הציף החוצה כמות מים השווה לנפחו!</source>
-        <target>الماء الذي انسكب كان بحجم 250 ملل — أي أن حجم المطرقة هو 250 ملل، لأنها أزاحت للخارج كمية من الماء تساوي حجمها!</target>
+        <target>الماء الذي انسكب كان بحجم 250 ملل — أي أن حجم المطرقة هو 250 ملل، لأنها أزاحت للخارج حجمًا من الماء يساوي حجمها!</target>
         <note from="screen-id">08-01-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -5041,7 +5036,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-01-007">
         <source>בניסוי מעבדה הילה מילאה משורה במים עד לקו 50 מ"ל, והכניסה פנימה אבן קטנה.&lt;br/&gt;גובה המים במשורה עלה ל-73 מ"ל.&lt;br/&gt;&lt;strong&gt;מה נפח האבן?&lt;/strong&gt;</source>
-        <target>في تجربة مختبرية، ملأت هالة أسطوانة مدرجة بالماء حتى خط 50 ملل، ثم أدخلت فيها حجرًا صغيرًا.ارتفع مستوى الماء في الاسطوانة المدرجة إلى 73 ملل.ما حجم الحجر؟</target>
+        <target>في تجربة مختبرية، ملأت هالة مخبارًا مدرجًا بالماء حتى خط 50 ملل، ثم أدخلت فيه حجرًا صغيرًا. ارتفع مستوى الماء في المخبار المدرج إلى 73 ملل. ما حجم الحجر؟</target>
         <note from="screen-id">08-02-01</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -5140,7 +5135,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-01-018">
         <source>&lt;strong&gt;בכמה עלה מפלס המים במשורה?&lt;/strong&gt;</source>
-        <target>&lt;strong&gt;بكم ارتفع منسوب الماء في الأسطوانة المدرجة؟&lt;/strong&gt;</target>
+        <target>&lt;strong&gt;بكم ارتفع منسوب الماء في المخبار المدرج؟&lt;/strong&gt;</target>
         <note from="screen-id">08-02-01</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -5149,7 +5144,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-01-019">
         <source>נפח הגוף שווה להפרש בין הקריאה הסופית של מפלס המים במשורה לקריאה ההתחלתית</source>
-        <target>حجم الجسم يساوي الفرق بين القراءة النهائية لمستوى الماء في الاسطوانة المدرجة والقراءة الأولية</target>
+        <target>حجم الجسم يساوي الفرق بين القراءة النهائية لمستوى الماء في المخبار المدرج والقراءة الأولية</target>
         <note from="screen-id">08-02-01</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -5252,7 +5247,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-02-010">
         <source>&lt;span class="scq-opt-text"&gt;להכניס את הכדור לכלי עם מים ולמדוד כמה מים נשפכו&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>وضع الكرة في وعاء مملوء بالماء وقياس كمية الماء التي انسكبت</target>
+        <target>وضع الكرة في وعاء مملوء بالماء وقياس حجم الماء الذي انسكب</target>
         <note from="screen-id">08-02-02</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -5333,7 +5328,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-02-019">
         <source>&lt;strong&gt;הגוף נכנס למשורה?&lt;/strong&gt;</source>
-        <target>هل يدخل الجسم في الاسطوانة المدرجة؟</target>
+        <target>هل يدخل الجسم في المخبار المدرج؟</target>
         <note from="screen-id">08-02-02</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -5441,7 +5436,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-03-010">
         <source>&lt;span class="scq-opt-text"&gt;הכנסתי את הכפית למשורה עם מים. המים עלו מ-50 ל-&lt;span class="nobr"&gt;70 מ"ל&lt;/span&gt;, ולכן נפח הכפית הוא &lt;span class="nobr"&gt;20 מ"ל&lt;/span&gt;.&lt;/span&gt;</source>
-        <target>أدخلتُ الملعقة إلى الاسطوانة المدرجة مع الماء. ارتفع الماء من 50 إلى 70 ملل، ولذلك حجم الملعقة هو 20 ملل.</target>
+        <target>أدخلتُ الملعقة إلى المخبار المدرج مع الماء. ارتفع الماء من 50 إلى 70 ملل، ولذلك حجم الملعقة هو 20 ملل.</target>
         <note from="screen-id">08-02-03</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -5675,7 +5670,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-04-015">
         <source>האם הוא נכנס במשורה?&lt;br&gt;האם יש לו צלעות ישרות?&lt;/br&gt;</source>
-        <target>هل يمكن إدخاله في الاسطوانة المدرجة؟&lt;br&gt;هل له أضلاع مستقيمة؟&lt;/br&gt;</target>
+        <target>هل يمكن إدخاله في المخبار المدرج؟&lt;br&gt;هل له أضلاع مستقيمة؟&lt;/br&gt;</target>
         <note from="screen-id">08-02-04</note>
         <note from="screen-type">DragAndDropQuestion</note>
         <note from="element-role">paragraph</note>
@@ -5759,7 +5754,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
         <target>أنس وأخوه حصلا على بلورات ضخمة كهدية من جدتهما.
 أرادا معرفة أيّ بلورة لها حجم أكبر.
 ملآ وعاءً كبيرًا بالماء حتى الحافة، وأغرقا البلورة الأولى، وجمعا الماء الذي انسكب وقاسا حجمه بأداة قياس.
-يقول أنس: "بواسطة كمية الماء التي انسكبت يمكن معرفة حجم البلورة."
+يقول أنس: "بواسطة حجم الماء الذي انسكب يمكن معرفة حجم البلورة."
 هل أنس على حق؟</target>
         <note from="screen-id">08-02-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
@@ -5769,7 +5764,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-05-009">
         <source>האם אופק צודק?</source>
-        <target>هل اوفيك على حق؟</target>
+        <target>هل أنس على حق؟</target>
         <note from="screen-id">08-02-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">aria-label</note>
@@ -6166,7 +6161,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-029">
         <source>שננסה שוב?</source>
-        <target>هل نحاول مجدداً؟</target>
+        <target>هل نحاول مجددًا؟</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6196,7 +6191,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-032">
         <source>נפח הגוף שווה לכמות המים שדחק — כלומר ההפרש בין הנפח הסופי לנפח ההתחלתי.</source>
-        <target>حجم الجسم يساوي كمية الماء التي أزاحها — أي الفرق بين الحجم النهائي والحجم الابتدائي.</target>
+        <target>حجم الجسم يساوي حجم الماء الذي أزاحه — أي الفرق بين الحجم النهائي والحجم الابتدائي.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6236,7 +6231,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-036">
         <source>נפח המים שישפכו מהכלי שווה בדיוק לנפח הכדור, כך ניתן למדוד נפח של גוף שלא נכנס במשורה — זוהי שיטת ההצפה.</source>
-        <target>حجم الماء الذي سينسكب من الوعاء يساوي تمامًا حجم الكرة، وبهذه الطريقة يمكن قياس حجم جسم لا يدخل في الاسطوانة المدرجة — وهذه هي طريقة الإفاضة.</target>
+        <target>حجم الماء الذي سينسكب من الوعاء يساوي تمامًا حجم الكرة، وبهذه الطريقة يمكن قياس حجم جسم لا يدخل في المخبار المدرج — وهذه هي طريقة الإغمار.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6286,7 +6281,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-041">
         <source>בשיטת ההצפה נפח המים שנשפכו מהכלי שווה לנפח הגוף שהוכנס אליו. לכן, אם מודדים את נפח המים שנאספו במשורה, אפשר לדעת מה נפח הקריסטל.</source>
-        <target>في طريقة الإفاضة، حجم الماء الذي انسكب من الوعاء يساوي حجم الجسم الذي أُدخل إليه. لذلك، إذا قِسنا حجم الماء الذي تجمّع في الاسطوانة المدرجة، يمكننا معرفة حجم البلّورة.</target>
+        <target>في طريقة الإغمار، حجم الماء الذي انسكب من الوعاء يساوي حجم الجسم الذي أُدخل إليه. لذلك، إذا قِسنا حجم الماء الذي تجمّع في المخبار المدرج، يمكننا معرفة حجم البلّورة.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6306,7 +6301,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-043">
         <source>התשובה אינה נכונה במלואה.</source>
-        <target>الإجابة ليست صحيحة تماماً.</target>
+        <target>الإجابة ليست صحيحة تمامًا.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6456,7 +6451,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-058">
         <source>צדפה היא גוף שאינו הנדסי וקטן מספיק להיכנס למשורה ולכן נבצע דחיקת מים.</source>
-        <target>الصدفة جسم غير هندسي وصغيرة بما يكفي لتدخل في الاسطوانة المدرجة، ولذلك سنقوم بإزاحة الماء.</target>
+        <target>الصدفة جسم غير هندسي وصغيرة بما يكفي لتدخل في المخبار المدرج، ولذلك سنقوم بإزاحة الماء.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6466,7 +6461,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-059">
         <source>גביע הוא גוף שאינו הנדסי ולא נכנס במשורה ולכן נבצע את שיטת ההצפה.</source>
-        <target>الكأس جسم غير هندسي ولا يمكن إدخاله في الاسطوانة المدرجة، لذلك سنستخدم طريقة الإزاحة.</target>
+        <target>الكأس جسم غير هندسي ولا يمكن إدخاله في المخبار المدرج، لذلك سنستخدم طريقة الإغمار.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6496,7 +6491,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-062">
         <source>צדפה היא גוף שאינו הנדסי וקטן מספיק להיכנס למשורה ולכן נבצע דחיקת מים.</source>
-        <target>الصدفة جسم غير هندسي وصغيرة بما يكفي لتدخل في الاسطوانة المدرجة، ولذلك سنقوم بإزاحة الماء.</target>
+        <target>الصدفة جسم غير هندسي وصغيرة بما يكفي لتدخل في المخبار المدرج، ولذلك سنقوم بإزاحة الماء.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6506,7 +6501,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-02-99-063">
         <source>גביע הוא גוף שאינו הנדסי ולא נכנס במשורה ולכן נבצע את שיטת ההצפה.</source>
-        <target>الكأس جسم غير هندسي ولا يمكن إدخاله في الاسطوانة المدرجة، لذلك سنستخدم طريقة الإزاحة.</target>
+        <target>الكأس جسم غير هندسي ولا يمكن إدخاله في المخبار المدرج، لذلك سنستخدم طريقة الإغمار.</target>
         <note from="screen-id">08-02-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -6618,7 +6613,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-03-01-009">
         <source>&lt;span class="scq-opt-text"&gt;לבנה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>لبنة</target>
+        <target>لبنة (قالب طوب)</target>
         <note from="screen-id">08-03-01</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -6879,11 +6874,7 @@ I need to reconsider - the source doesn't contain placeholders, it uses ** for b
       </trans-unit>
       <trans-unit id="08-03-02-018">
         <source>&lt;strong&gt;גוף שאין לו צורה הנדסית מוגדרת&lt;/strong&gt;</source>
-        <target>{1}جسم ليس له شكل هندسي محدّد{/1}
-
-Wait, the source doesn't contain placeholders. Let me re-translate:
-
-جسم ليس له شكل هندسي محدّد</target>
+        <target>&lt;strong&gt;جسم ليس له شكل هندسي محدّد&lt;/strong&gt;</target>
         <note from="screen-id">08-03-02</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -6892,7 +6883,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-02-019">
         <source>הצורה שלה לא אחידה, לא בנויה מקווים ישרים או מעגלים, ואי-אפשר לחשב את נפחה בעזרת נוסחה.</source>
-        <target>شكلها غير منتظم، وليست مبنية من خطوط مستقيمة أو دوائر، ولا يمكن حساب حجمها باستخدام معادلة.</target>
+        <target>شكله غير منتظم، وليس مبنيًا من خطوط مستقيمة أو دوائر، ولا يمكن حساب حجمه باستخدام معادلة.</target>
         <note from="screen-id">08-03-02</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -6973,7 +6964,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-03-008">
         <source>משורה</source>
-        <target>اسطوانة مدرجة</target>
+        <target>المخبار المدرج</target>
         <note from="screen-id">08-03-03</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -7117,7 +7108,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-04-006">
         <source>במפעל לייצור מתכות הכניסו גליל מתכת לכלי מלא במים כדי למדוד את הנפח שלו בשיטת ההצפה.&lt;br&gt;נפח המים שגלשו מהכלי היה 760 מ"ל.&lt;br&gt;&lt;b&gt;מה נפח הגליל?&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;</source>
-        <target>في مصنع لإنتاج المعادن، تم إدخال أسطوانة معدنية في وعاء مملوء بالماء لقياس حجمها بطريقة الإزاحة.{2/}حجم الماء الذي فاض من الوعاء كان 760 ملل.{2/}{1}ما حجم الأسطوانة؟{/1}{2/}{2/}</target>
+        <target>في مصنع لإنتاج المعادن، تم إدخال أسطوانة معدنية في وعاء مملوء بالماء لقياس حجمها بطريقة الإغمار.{2/}حجم الماء الذي فاض من الوعاء كان 760 ملل.{2/}{1}ما حجم الأسطوانة؟{/1}{2/}{2/}</target>
         <note from="screen-id">08-03-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -7135,7 +7126,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-04-008">
         <source>&lt;span class="scq-opt-text"&gt;כמות המים המקורית בכלי פחות &lt;span class="nobr"&gt;760 מ"ל&lt;/span&gt;&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>كمية الماء الأصلية في الوعاء أقل من 760 ملل</target>
+        <target>حجم الماء الأصلي في الوعاء أقل من 760 ملل</target>
         <note from="screen-id">08-03-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -7225,7 +7216,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-04-018">
         <source>&lt;strong&gt;כמה מים גלשו?&lt;/strong&gt;</source>
-        <target>كم من الماء فاض؟</target>
+        <target>ما حجم الماء الذي فاض؟</target>
         <note from="screen-id">08-03-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -7234,7 +7225,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-04-019">
         <source>בשיטת ההצפה מודדים את כמות המים שגלשה מהכלי שהיה מלא במים כדי לגלות את נפח הגוף.</source>
-        <target>في طريقة الإفاضة، نقيس كمية الماء التي فاضت من الوعاء الذي كان مملوءًا بالماء لاكتشاف حجم الجسم.</target>
+        <target>في طريقة الإغمار، نقيس حجم الماء الذي فاض من الوعاء الذي كان مملوءًا بالماء لإيجاد حجم الجسم.</target>
         <note from="screen-id">08-03-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -7329,9 +7320,9 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-06-004">
         <source>בתמונה א' ניתן לראות את נפח המים במשורה &lt;b&gt;לפני&lt;/b&gt; שהכניסו אליה את בובת המפלצת.&lt;br&gt;בתמונה ב' ניתן לראות את נפח המים במשורה &lt;b&gt;אחרי&lt;/b&gt; שהכניסו אליה את בובת המפלצת.&lt;br/&gt;סמנו בתמונה ב' את האזור בו ניתן לראות שגובה המים במשורה עלה.&lt;/br&gt;</source>
-        <target>في الصورة أ يمكن رؤية حجم الماء في الأسطوانة المدرّجة {1}قبل{/1} إدخال دمية الوحش إليها.
-في الصورة ب يمكن رؤية حجم الماء في الأسطوانة المدرّجة {1}بعد{/1} إدخال دمية الوحش إليها.
-حدّدوا في الصورة ب المنطقة التي يمكن فيها رؤية ارتفاع مستوى الماء في الأسطوانة المدرّجة.</target>
+        <target>في الصورة أ يمكن رؤية حجم الماء في المخبار المدرج {1}قبل{/1} إدخال دمية الوحش إليه.
+في الصورة ب يمكن رؤية حجم الماء في المخبار المدرج {1}بعد{/1} إدخال دمية الوحش إليه.
+حدّدوا في الصورة ب المنطقة التي يمكن رؤية ارتفاع الماء فيها.</target>
         <note from="screen-id">08-03-06</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -7349,7 +7340,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-06-006">
         <source>משורה עם מים, ולידה בובת מפלצת ירוקה קטנה</source>
-        <target>أسطوانة مدرجة بها ماء، وبجانبها دمية وحش صغيرة خضراء</target>
+        <target>مخبار مدرج به ماء، وبجانبه دمية وحش صغيرة خضراء</target>
         <note from="screen-id">08-03-06</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -7367,7 +7358,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-06-008">
         <source>אותה משורה לאחר שבובת המפלצת הוכנסה למים</source>
-        <target>نفس الأسطوانة المدرجة بعد إدخال دمية الوحش في الماء</target>
+        <target>نفس المخبار المدرج بعد إدخال دمية الوحش في الماء</target>
         <note from="screen-id">08-03-06</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -7511,7 +7502,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-07-004">
         <source>מעצבת תכשיטים צריכה לדעת מה נפחו של חרוז קטן.&lt;br/&gt;מכיוון שקשה למדוד חרוז אחד במדויק, היא הכניסה למשורה 3 חרוזים זהים.&lt;span class="s7-para-gap"&gt;&lt;/span&gt;נפח המים לפני המדידה: 100 מ"ל. נפח המים לאחר הכנסת החרוזים: 130 מ"ל.&lt;br/&gt;&lt;b&gt;מהו נפחו של חרוז אחד?&lt;/b&gt;</source>
-        <target>مصممة مجوهرات تحتاج إلى معرفة حجم خرزة صغيرة. بما أنه من الصعب قياس خرزة واحدة بدقة، أدخلت إلى الاسطوانة المدرجة 3 خرزات متطابقة. حجم الماء قبل القياس: 100 ملل. حجم الماء بعد إدخال الخرزات: 130 ملل. ما هو حجم خرزة واحدة؟</target>
+        <target>مصممة مجوهرات تحتاج إلى معرفة حجم خرزة صغيرة. بما أنه من الصعب قياس خرزة واحدة بدقة، أدخلت إلى المخبار المدرج 3 خرزات متطابقة. حجم الماء قبل القياس: 100 ملل. حجم الماء بعد إدخال الخرزات: 130 ملل. ما هو حجم خرزة واحدة؟</target>
         <note from="screen-id">08-03-07</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -7907,7 +7898,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-99-028">
         <source>שננסה שוב?</source>
-        <target>هل نحاول مجدداً؟</target>
+        <target>هل نحاول مجددًا؟</target>
         <note from="screen-id">08-03-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -7957,7 +7948,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-99-033">
         <source>לגוף שאינו הנדסי מודדים את הנפח בעזרת דחיקת מים – מכניסים אותו למשורה ובודקים בכמה המים עלו. ההפרש בין כמות המים המקורית לכמות החדשה = נפח הגוף!</source>
-        <target>لقياس حجم جسم غير منتظم الشكل نستخدم طريقة إزاحة الماء – نُدخله في الاسطوانة المدرجة ونتحقق من مقدار ارتفاع الماء. الفرق بين كمية الماء الأصلية والكمية الجديدة = حجم الجسم!</target>
+        <target>لقياس حجم جسم غير منتظم الشكل نستخدم طريقة إزاحة الماء – نُدخله في المخبار المدرج ونتحقق من مقدار ارتفاع الماء. الفرق بين حجم الماء الأصلي والحجم الجديد = حجم الجسم!</target>
         <note from="screen-id">08-03-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -7967,7 +7958,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-99-034">
         <source>נכון מאוד!</source>
-        <target>صحيح جدًا!</target>
+        <target>صحيح جدًّا!</target>
         <note from="screen-id">08-03-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -7977,7 +7968,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-99-035">
         <source>ניתן להכניס גוף מסוים למשורה עם מים ולמדוד את הנפח שלו לפי כמות המים שעלתה.</source>
-        <target>يمكن إدخال جسم معيّن في الاسطوانة المدرجة تحتوي على ماء وقياس حجمه وفقًا لكمية الماء التي ارتفعت.</target>
+        <target>لقياس حجم جسم غير منتظم الشكل نستخدم طريقة إزاحة الماء – نُدخله في المخبار المدرج ونتحقق من مقدار ارتفاع الماء. الفرق بين كمية الماء الأصلية والكمية الجديدة = حجم الجسم!</target>
         <note from="screen-id">08-03-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -7997,7 +7988,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-99-037">
         <source>גוף שנכנס למים גורם להצפת מים בכמות זהה לנפח שלו בדיוק. לכן נפח הגליל הוא בדיוק 760 מ"ל.</source>
-        <target>جسم يُغمر في الماء يتسبب في إزاحة كمية من الماء مساوية تمامًا لحجمه. لذلك فإن حجم الأسطوانة هو بالضبط 760 ملل.</target>
+        <target>جسم يُغمر في الماء يزيح حجمًا من الماء يساوي حجمه تمامًا. لذلك فإن حجم الأسطوانة هو بالضبط 760 ملل.</target>
         <note from="screen-id">08-03-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -8017,7 +8008,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-03-99-039">
         <source>האזור שבו רואים את כמות המים שעלתה במשורה הוא זה שמייצג את נפח המפלצת.</source>
-        <target>المنطقة التي نرى فيها كمية الماء التي ارتفعت في الاسطوانة المدرجة هي التي تمثل حجم الوحش.</target>
+        <target>المنطقة التي نرى فيها حجم الماء الذي ارتفع في المخبار المدرج هي التي تمثل حجم الوحش.</target>
         <note from="screen-id">08-03-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -8147,7 +8138,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-04-01-003">
         <source>איזה מידע המודל צריך לקבל על גוף מוצק? (למשל: האם הוא בעל צורה הנדסית, והאם הוא נכנס למשורה)</source>
-        <target>ما هي المعلومات التي يحتاج النموذج إلى الحصول عليها عن جسم صلب؟ (مثلاً: هل له شكل هندسي، وهل يمكن إدخاله في اسطوانة مدرجة)</target>
+        <target>ما هي المعلومات التي يحتاج النموذج إلى الحصول عليها عن جسم صلب؟ (مثلًا: هل له شكل هندسي، وهل يمكن إدخاله في مخبار مدرج)</target>
         <note from="screen-id">08-04-01</note>
         <note from="screen-title">משימת כיתה: אימון מודל AI למדידת נפח</note>
         <note from="screen-type">other</note>
@@ -8477,7 +8468,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-01-001">
         <source>בשיעור מדעים יעל מילאה משורה במים עד 60 מ"ל.&lt;br&gt;היא הכניסה פנימה טבעת כסף וראתה שפני המים עלו ל- 85 מ"ל.&lt;br/&gt; היא טענה: "הניסוי לא מודד את נפח הטבעת, אלא רק את המים שעלו"&lt;br/&gt;&lt;br/&gt; &lt;b&gt;איך המורה למדעים יסביר ליעל שהניסוי מספק ראיה מדעית תקפה לנפח הטבעת?&lt;/b&gt;&lt;/br&gt;</source>
-        <target>في حصة العلوم، ملأت ياسمين اسطوانة مدرجة بالماء حتى 60 ملل.أدخلت فيها خاتمًا من الفضة ولاحظت أن مستوى الماء ارتفع إلى 85 ملل.ادّعت: "التجربة لا تقيس حجم الخاتم، بل فقط الماء الذي ارتفع"كيف سيشرح معلم العلوم لياسمين أن التجربة تقدّم دليلًا علميًا صحيحًا على حجم الخاتم؟</target>
+        <target>في حصة العلوم، ملأت ياسمين مخبارًا مدرجًا بالماء حتى 60 ملل. أدخلت فيه خاتمًا من الفضة ولاحظت أن مستوى الماء ارتفع إلى 85 ملل. ادّعت: "التجربة لا تقيس حجم الخاتم، بل فقط الماء الذي ارتفع"كيف سيشرح معلم العلوم لياسمين أن التجربة تقدّم دليلًا علميًا صحيحًا على حجم الخاتم؟</target>
         <note from="screen-id">08-05-01</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -8522,7 +8513,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-01-006">
         <source>&lt;span class="scq-opt-text"&gt;הנתונים הנוכחיים אינם מהווים ראיה מדעית תקפה, כל עוד לא חזרו על הניסוי עם נוזלים אחרים כמו שמן או אלכוהול.&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>البيانات الحالية لا تشكّل دليلاً علمياً صالحاً، طالما لم تتم إعادة التجربة مع سوائل أخرى مثل الزيت أو الكحول.</target>
+        <target>البيانات الحالية لا تشكّل دليلًا علميًا صالحًا، طالما لم تتم إعادة التجربة مع سوائل أخرى مثل الزيت أو الكحول.</target>
         <note from="screen-id">08-05-01</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -8603,7 +8594,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-02-001">
         <source>עדשים כתומות נשפכות מכף לתוך כלי מדידה</source>
-        <target>عدس برتقالي يُسكب من ملعقة إلى أسطوانة مدرجة</target>
+        <target>عدس برتقالي يُسكب من ملعقة إلى مخبار مدرج</target>
         <note from="screen-id">08-05-02</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -8738,7 +8729,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-03-001">
         <source>גוש זהב מונח ליד משורה עם מים על שולחן מעבדה</source>
-        <target>كتلة ذهب موضوعة بجانب الاسطوانة المدرجة يحتوي على ماء على طاولة مختبر</target>
+        <target>كتلة ذهب موضوعة بجانب مخبار مدرج يحتوي على ماء على طاولة مختبر</target>
         <note from="screen-id">08-05-03</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -8877,7 +8868,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-04-001">
         <source>ליאן מכינה סליים במטבח ומודדת אותו במשורה, לידה קופסאות וצנצנות סליים</source>
-        <target>ليان تحضّر سلايم في المطبخ وتقيسه باسطوانة مدرجة، وبجانبها علب وحاويات سلايم</target>
+        <target>ليان تحضّر سلايم في المطبخ وتقيسه بمخبار مدرج، وبجانبها علب وحاويات سلايم</target>
         <note from="screen-id">08-05-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -8905,7 +8896,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-04-004">
         <source>&lt;span class="scq-opt-text"&gt;ללחוץ עליו כלפי מטה עם היד בתוך המשורה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>الضغط عليه إلى الأسفل باليد داخل الأسطوانة المدرجة</target>
+        <target>الضغط عليه إلى الأسفل باليد داخل المخبار المدرج</target>
         <note from="screen-id">08-05-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -8914,7 +8905,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-04-005">
         <source>&lt;span class="scq-opt-text"&gt;לעטוף משקולת קטנה עם הסליים ולהכניס למשורה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>لف ثقل صغير مع السلايم وإدخاله في الأسطوانة المدرجة</target>
+        <target>لف ثقل صغير مع السلايم وإدخاله في المخبار المدرج</target>
         <note from="screen-id">08-05-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -8923,7 +8914,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-04-006">
         <source>&lt;span class="scq-opt-text"&gt;להוסיף יותר מים למשורה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>إضافة المزيد من الماء إلى الاسطوانة المدرجة</target>
+        <target>إضافة المزيد من الماء إلى المخبار المدرج</target>
         <note from="screen-id">08-05-04</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -9004,7 +8995,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-05-001">
         <source>במטבח של ליאן: סליים טורקיז עטוף סביב משקולת קטנה נכנס למשורה של 500 מ"ל עם מים ושוקע לתחתיתה, ומפלס המים עולה מהקו המקווקו לגובה חדש</source>
-        <target>في مطبخ ليان: سلايم فيروزي ملفوف حول ثقل صغير يُوضع في اسطوانة مدرجة سعته 500 ملل مملوءة بالماء ويغوص إلى القاع، ويرتفع مستوى الماء من الخط المتقطع إلى ارتفاع جديد</target>
+        <target>في مطبخ ليان: سلايم فيروزي ملفوف حول ثقل صغير يُوضع في مخبار مدرج سعته 500 ملل مملوء بالماء ويغوص إلى القاع، ويرتفع مستوى الماء من الخط المتقطع إلى ارتفاع جديد</target>
         <note from="screen-id">08-05-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -9013,7 +9004,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-05-002">
         <source>&lt;b class="scq-qtext-part"&gt;סעיף ב:&lt;/b&gt;&lt;br/&gt; אחרי שהמשקולת והסליים שקעו במשורה ליאן קראה את הנפח שהתקבל.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;איך היא תחשב את נפח הסליים לבדו?&lt;/b&gt;</source>
-        <target>البند ب: بعد أن غرق الثقل والسلايم في الاسطوانة المدرجة، قرأت ليان الحجم الذي حصلت عليه. كيف ستحسب حجم السلايم وحده؟</target>
+        <target>البند ب: بعد أن غرق الثقل والسلايم في المخبار المدرج، قرأت ليان الحجم الذي حصلت عليه. كيف ستحسب حجم السلايم وحده؟</target>
         <note from="screen-id">08-05-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -9031,7 +9022,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-05-004">
         <source>&lt;span class="scq-opt-text"&gt;תחבר את הנפח שהתקבל במשורה יחד עם נפח המשקולת הידוע מראש&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>تجمع الحجم الذي تم الحصول عليه في الاسطوانة المدرجة مع حجم الثقل المعروف مسبقًا</target>
+        <target>تجمع الحجم الذي تم الحصول عليه في المخبار المدرج مع حجم الثقل المعروف مسبقًا</target>
         <note from="screen-id">08-05-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -9040,7 +9031,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-05-005">
         <source>&lt;span class="scq-opt-text"&gt;תחסיר מהנפח שהתקבל במשורה את נפח המים שהיה בהתחלה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>تطرح من الحجم الذي ظهر في الاسطوانة المدرجة حجم الماء الذي كان في البداية</target>
+        <target>تطرح من الحجم الذي ظهر في المخبار المدرج حجم الماء الذي كان في البداية</target>
         <note from="screen-id">08-05-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -9112,7 +9103,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-05-013">
         <source>&lt;strong&gt;מה במשורה?&lt;/strong&gt;</source>
-        <target>ما في الأسطوانة المدرّجة؟</target>
+        <target>ما في المخبار المدرج؟</target>
         <note from="screen-id">08-05-05</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">paragraph</note>
@@ -9139,7 +9130,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-06-001">
         <source>כמה גולות זכוכית מונחות ליד משורה עם מים</source>
-        <target>عدّة كرات زجاجية موضوعة بجانب اسطوانة مدرجة يحتوي على ماء</target>
+        <target>عدّة كرات زجاجية موضوعة بجانب مخبار مدرج يحتوي على ماء</target>
         <note from="screen-id">08-05-06</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -9220,7 +9211,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-07-001">
         <source>כמה גולות זכוכית מונחות ליד משורה עם מים</source>
-        <target>عدّة كرات زجاجية موضوعة بجانب اسطوانة مدرجة يحتوي على ماء</target>
+        <target>عدّة كرات زجاجية موضوعة بجانب مخبار مدرج يحتوي على ماء</target>
         <note from="screen-id">08-05-07</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -9310,7 +9301,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-08-001">
         <source>כמה גולות זכוכית מונחות ליד משורה עם מים</source>
-        <target>عدّة كرات زجاجية موضوعة بجانب اسطوانة مدرجة يحتوي على ماء</target>
+        <target>عدّة كرات زجاجية موضوعة بجانب مخبار مدرج يحتوي على ماء</target>
         <note from="screen-id">08-05-08</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">image-alt</note>
@@ -9337,7 +9328,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-08-004">
         <source>&lt;span class="scq-opt-text"&gt;כן, אפשר להכניס גולות שונות למשורה ולמדוד את נפחן הכולל&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>نعم، يمكن إدخال كرات زجاجية مختلفة إلى اسطوانة مدرجة وقياس حجمها الإجمالي</target>
+        <target>نعم، يمكن إدخال كرات زجاجية مختلفة إلى مخبار مدرج وقياس حجمها الإجمالي</target>
         <note from="screen-id">08-05-08</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -9355,7 +9346,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-08-006">
         <source>&lt;span class="scq-opt-text"&gt;כן, זה אפשרי אבל רק אם המשורה גדולה מספיק&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>نعم، هذا ممكن ولكن فقط إذا كان الاسطوانة المدرجة كبير بما يكفي</target>
+        <target>نعم، هذا ممكن ولكن فقط إذا كان المخبار المدرج كبيرًا بما يكفي</target>
         <note from="screen-id">08-05-08</note>
         <note from="screen-type">SingleChoiceQuestion</note>
         <note from="element-role">button-label</note>
@@ -9391,7 +9382,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-09-001">
         <source>גולות זכוכית צבעוניות מפוזרות על משטח ליד משורה</source>
-        <target>كرات زجاجية ملوّنة متناثرة على سطح بجانب الاسطوانة المدرجة</target>
+        <target>كرات زجاجية ملوّنة متناثرة على سطح بجانب المخبار المدرج</target>
         <note from="screen-id">08-05-09</note>
         <note from="screen-type">other</note>
         <note from="element-role">image-alt</note>
@@ -9418,7 +9409,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-09-004">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-05-09</note>
         <note from="screen-type">other</note>
         <note from="element-role">button-label</note>
@@ -9436,7 +9427,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-10-001">
         <source>ליאן מכינה סליים במטבח ומודדת אותו במשורה, לידה קופסאות וצנצנות סליים</source>
-        <target>ليان تحضّر سلايم في المطبخ وتقيسه باسطوانة مدرجة، وبجانبها علب وبرطمانات سلايم</target>
+        <target>ليان تحضّر سلايم في المطبخ وتقيسه بمخبار مدرج، وبجانبها علب وبرطمانات سلايم</target>
         <note from="screen-id">08-05-10</note>
         <note from="screen-type">other</note>
         <note from="element-role">image-alt</note>
@@ -9445,7 +9436,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-10-002">
         <source>ליאן מכינה סליים ומוכרת אותו בתוך קופסאות פלסטיק קטנות בנפח 20 סמ"ק כל אחת.&lt;br/&gt;&lt;br/&gt; היא רוצה למדוד נפח של כל חתיכת סליים לפני שהיא מכניסה אותה לקופסה, אבל הסליים כל הזמן צף והמים במשורה לא עולים.</source>
-        <target>ليان تحضّر سلايم وتبيعه في علب بلاستيكية صغيرة بحجم 20 سم³ لكل واحدة.&lt;br/&gt;&lt;br/&gt; هي تريد قياس حجم كل قطعة سلايم قبل أن تضعها في العلبة، لكن السلايم يطفو طوال الوقت والماء في الاسطوانة المدرجة لا يرتفع.</target>
+        <target>ليان تحضّر سلايم وتبيعه في علب بلاستيكية صغيرة بحجم 20 سم³ لكل واحدة.&lt;br/&gt;&lt;br/&gt; هي تريد قياس حجم كل قطعة سلايم قبل أن تضعها في العلبة، لكن السلايم يطفو طوال الوقت والماء في المخبار المدرج لا يرتفع.</target>
         <note from="screen-id">08-05-10</note>
         <note from="screen-type">other</note>
         <note from="element-role">paragraph</note>
@@ -9454,7 +9445,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-10-003">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-05-10</note>
         <note from="screen-type">other</note>
         <note from="element-role">button-label</note>
@@ -9732,7 +9723,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-99-027">
         <source>שננסה שוב?</source>
-        <target>هل نحاول مجدداً؟</target>
+        <target>هل نحاول مجددًا؟</target>
         <note from="screen-id">08-05-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -9762,7 +9753,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-99-030">
         <source>הטבעת העלתה את מפלס המים במשורה.</source>
-        <target>رفع الخاتم مستوى الماء في الاسطوانة المدرجة.</target>
+        <target>رفع الخاتم مستوى الماء في المخبار المدرج.</target>
         <note from="screen-id">08-05-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -9812,7 +9803,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-99-035">
         <source>אם ליאן תעטוף משקולת קטנה בסליים ותכניס למשורה – הסליים ישקע והיא תוכל למדוד את הנפח שלו.</source>
-        <target>إذا لفّت ليان ثقلًا صغيرًا بالسلايم وأدخلته في الاسطوانة المدرجة – فإن السلايم سيغرق وستتمكن من قياس حجمه.</target>
+        <target>إذا لفّت ليان ثقلًا صغيرًا بالسلايم وأدخلته في المخبار المدرج – فإن السلايم سيغرق وستتمكن من قياس حجمه.</target>
         <note from="screen-id">08-05-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -9822,7 +9813,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-05-99-036">
         <source>&lt;span class="fb-equation"&gt;נפח המים הסופי במשורה = נפח מים התחלתי + נפח משקולת + נפח סליים.&lt;/span&gt;</source>
-        <target>&lt;span class="fb-equation"&gt;الحجم النهائي للماء في الاسطوانة المدرجة = حجم الماء الابتدائي + حجم الثقل + حجم السلايم.&lt;/span&gt;</target>
+        <target>&lt;span class="fb-equation"&gt;الحجم النهائي للماء في المخبار المدرج = حجم الماء الابتدائي + حجم الثقل + حجم السلايم.&lt;/span&gt;</target>
         <note from="screen-id">08-05-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -9942,7 +9933,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-01-001">
         <source>&lt;b class="scq-qtext-part"&gt;סעיף א:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;מה נפח הפסלון?&lt;/b&gt;</source>
-        <target>&lt;b class="scq-qtext-part"&gt;الفقرة أ:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;ما هو الحجم الكلي للكوب؟&lt;/b&gt;</target>
+        <target>&lt;b class="scq-qtext-part"&gt;الفقرة أ:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;ما هو حجم التمثال الصغير؟&lt;/b&gt;</target>
         <note from="screen-id">08-06-01</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">paragraph</note>
@@ -10014,7 +10005,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-01-009">
         <source>מדידה במשורה לפני הכנסת הפסלון: 50 מ"ל מים.</source>
-        <target>قياس في الاسطوانة المدرجة قبل إدخال التمثال الصغير: 50 ملل ماء.</target>
+        <target>قياس في المخبار المدرج قبل إدخال التمثال الصغير: 50 ملل ماء.</target>
         <note from="screen-id">08-06-01</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">list-item</note>
@@ -10023,7 +10014,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-01-010">
         <source>מדידה במשורה אחרי הכנסת הפסל: 110 מ"ל.</source>
-        <target>القياس في الاسطوانة المدرجة بعد إدخال التمثال: 110 ملل.</target>
+        <target>القياس في المخبار المدرج بعد إدخال التمثال: 110 ملل.</target>
         <note from="screen-id">08-06-01</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">list-item</note>
@@ -10275,7 +10266,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-03-005">
         <source>&lt;span class="scq-opt-text"&gt;&lt;b&gt;רינה:&lt;/b&gt; תוצאות מדידת הנפח גדולות משמעותית מכמות המים ההתחלתית ולכן הטענה נכונה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>{1}ريما:{/1} نتائج قياس الحجم أكبر بشكل ملحوظ من كمية الماء الأولية ولذلك الادعاء صحيح</target>
+        <target>{1}ريما:{/1} نتائج قياس الحجم أكبر بشكل ملحوظ من حجم الماء الأولي ولذلك الادعاء صحيح</target>
         <note from="screen-id">08-06-03</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">button-label</note>
@@ -10525,7 +10516,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-05-005">
         <source>מדידה במשורה לפני הכנסת הפסלון: 50 מ"ל מים.</source>
-        <target>قياس في الاسطوانة المدرجة قبل إدخال التمثال الصغير: 50 ملل ماء.</target>
+        <target>قياس في المخبار المدرج قبل إدخال التمثال الصغير: 50 ملل ماء.</target>
         <note from="screen-id">08-06-05</note>
         <note from="screen-title">בואו נשחק!</note>
         <note from="screen-type">other</note>
@@ -10535,7 +10526,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-05-006">
         <source>מדידה במשורה אחרי הכנסת הפסל: 110 מ"ל.</source>
-        <target>القياس في الاسطوانة المدرجة بعد إدخال التمثال: 110 ملل.</target>
+        <target>القياس في المخبار المدرج بعد إدخال التمثال: 110 ملل.</target>
         <note from="screen-id">08-06-05</note>
         <note from="screen-title">בואו נשחק!</note>
         <note from="screen-type">other</note>
@@ -10545,7 +10536,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-05-007">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-06-05</note>
         <note from="screen-title">בואו נשחק!</note>
         <note from="screen-type">other</note>
@@ -10795,7 +10786,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-06-99-024">
         <source>שננסה שוב?</source>
-        <target>هل نحاول مجدداً؟</target>
+        <target>هل نحاول مجددًا؟</target>
         <note from="screen-id">08-06-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -10984,7 +10975,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-01-003">
         <source>&lt;span class="scq-opt-text"&gt;שיטת ההצפה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>طريقة الإطفاء</target>
+        <target>طريقة الإغمار</target>
         <note from="screen-id">08-07-01</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">button-label</note>
@@ -11065,7 +11056,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-01-012">
         <source>&lt;strong&gt;הפסל לא נכנס למשורה&lt;/strong&gt;</source>
-        <target>التمثال لا يتسع داخل الأسطوانة المدرجة</target>
+        <target>التمثال لا يتسع داخل المخبار المدرج</target>
         <note from="screen-id">08-07-01</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">paragraph</note>
@@ -11074,7 +11065,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-01-013">
         <source>איזו שיטה מאפשרת למדוד נפח של גוף מוצק שאינו נכנס במשורה?</source>
-        <target>أي طريقة تتيح قياس حجم جسم صلب لا يدخل في الاسطوانة المدرجة؟</target>
+        <target>أي طريقة تتيح قياس حجم جسم صلب لا يدخل في المخبار المدرج؟</target>
         <note from="screen-id">08-07-01</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">paragraph</note>
@@ -11200,7 +11191,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-02-013">
         <source>למדנו ביחידות קודמות ש: 1 מ"ל = 1 סמ"ק, ו-1,000 מ"ל = 1 ליטר.</source>
-        <target>تعلمنا في الوحدات السابقة أن: 1 ملل = 1 سم³، و-1,000 ملل = 1 لتر.</target>
+        <target>تعلمنا في الوحدات السابقة أن: 1 ملل = 1 سم³، و1,000 ملل = 1 لتر.</target>
         <note from="screen-id">08-07-02</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">paragraph</note>
@@ -11218,7 +11209,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-03-001">
         <source>&lt;b class="scq-qtext-part"&gt;סעיף ג:&lt;/b&gt;&lt;br/&gt; אחותו של ארז ראתה מה הוא עושה וטענה:&lt;br/&gt;"כמות המים שנאספה היא 1,250 מ"ל — שווה בדיוק לנפח הפסל!"&lt;br/&gt;&lt;b&gt;איזה מהמשפטים הבאים נכון?&lt;/b&gt;</source>
-        <target>&lt;b class="scq-qtext-part"&gt;البند ج:&lt;/b&gt;&lt;br/&gt; رأت أخت وليد ما يفعله، وادّعت:&lt;br/&gt;"كمية الماء التي جُمعت هي 1,250 ملل — تساوي تمامًا حجم التمثال!"&lt;br/&gt;&lt;b&gt;أيّ من الجمل التالية صحيحة؟&lt;/b&gt;</target>
+        <target>&lt;b class="scq-qtext-part"&gt;البند ج:&lt;/b&gt;&lt;br/&gt; رأت أخت وليد ما يفعله، وادّعت:&lt;br/&gt;"حجم الماء الذي جُمع هو 1,250 ملل — يساوي تمامًا حجم التمثال!"&lt;br/&gt;&lt;b&gt;أيّ من الجمل التالية صحيحة؟&lt;/b&gt;</target>
         <note from="screen-id">08-07-03</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">paragraph</note>
@@ -11254,7 +11245,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-03-005">
         <source>&lt;span class="scq-opt-text"&gt;לא ניתן לדעת נפח של גוף מסוים בלי להכניס אותו למשורה לבדיקה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>لا يمكن معرفة حجم جسم معيّن دون وضعه في الاسطوانة المدرجة لفحصه</target>
+        <target>لا يمكن معرفة حجم جسم معيّن دون وضعه في المخبار المدرج لفحصه</target>
         <note from="screen-id">08-07-03</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">button-label</note>
@@ -11263,7 +11254,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-03-006">
         <source>&lt;span class="scq-opt-text"&gt;בגלל שהפסל עשוי מתכת וכבד, הוא דוחק הרבה מים החוצה ולכן הטענה נכונה&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>لأن التمثال مصنوع من المعدن وثقيل، فإنه يزيح كمية كبيرة من الماء إلى الخارج ولذلك الادعاء صحيح</target>
+        <target>لأن التمثال مصنوع من المعدن وثقيل، فإنه يزيح حجمًا كبيرًا من الماء إلى الخارج ولذلك الادعاء صحيح</target>
         <note from="screen-id">08-07-03</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">button-label</note>
@@ -11371,7 +11362,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-04-005">
         <source>&lt;span class="scq-opt-text"&gt;בשיטת ההצפה נאספו בממוצע &lt;span class="nobr"&gt;1,250 מ"ל&lt;/span&gt; מים,&lt;br/&gt;ונפח המים שנדחק שווה לנפח הגוף שהוכנס למים&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</source>
-        <target>&lt;span class="scq-opt-text"&gt;بطريقة الإزاحة جُمع في المتوسط &lt;span class="nobr"&gt;1,250 ملل&lt;/span&gt; من الماء،&lt;br/&gt;وحجم الماء المُزاح يساوي حجم الجسم الذي أُدخل إلى الماء&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</target>
+        <target>&lt;span class="scq-opt-text"&gt;بطريقة الإغمار جُمع في المتوسط &lt;span class="nobr"&gt;1,250 ملل&lt;/span&gt; من الماء،&lt;br/&gt;وحجم الماء المُزاح يساوي حجم الجسم الذي أُدخل إلى الماء&lt;/span&gt;&lt;span aria-hidden="true" class="scq-radio"&gt;&lt;/span&gt;</target>
         <note from="screen-id">08-07-04</note>
         <note from="screen-type">Peak question (SingleChoice)</note>
         <note from="element-role">button-label</note>
@@ -11521,7 +11512,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-05-007">
         <source>המשך</source>
-        <target>تابِع</target>
+        <target>متابعة</target>
         <note from="screen-id">08-07-05</note>
         <note from="screen-title">האקווריום של ארז</note>
         <note from="screen-type">other</note>
@@ -11771,7 +11762,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-99-024">
         <source>שננסה שוב?</source>
-        <target>هل نحاول مجدداً؟</target>
+        <target>هل نحاول مجددًا؟</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11801,11 +11792,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate:
       </trans-unit>
       <trans-unit id="08-07-99-027">
         <source>הפסל הוא גוף שאינו הנדסי ואינו נכנס במשורה, לכן ארז בחר &lt;b&gt;בשיטת ההצפה&lt;/b&gt;.</source>
-        <target>التمثال هو جسم غير هندسي ولا يمكن إدخاله في أسطوانة مدرجة، لذلك اختار يوسف {1}طريقة الإغمار{/1}.
-
-Wait, the source doesn't contain placeholders. Let me re-translate without adding any.
-
-التمثال هو جسم غير هندسي ولا يمكن إدخاله في أسطوانة مدرجة، لذلك اختار يوسف طريقة الإغمار.</target>
+        <target>التمثال هو جسم غير هندسي ولا يمكن إدخاله في مخبار مدرج، لذلك اختار يوسف &lt;b&gt;طريقة الإغمار&lt;/b&gt;.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11815,7 +11802,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate without addin
       </trans-unit>
       <trans-unit id="08-07-99-028">
         <source>בשיטת ההצפה נפח המים שנאספו שווה לנפח הפסל.</source>
-        <target>في طريقة الإفاضة، حجم الماء الذي تمّ جمعه يساوي حجم التمثال.</target>
+        <target>في طريقة الإغمار، حجم الماء الذي تمّ جمعه يساوي حجم التمثال.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11825,7 +11812,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate without addin
       </trans-unit>
       <trans-unit id="08-07-99-029">
         <source>למדנו ש: 1 מ"ל = 1 סמ"ק,&lt;br /&gt;ו-1,000 מ"ל = 1 ליטר.</source>
-        <target>تعلمنا أن: 1 ملل = 1 سم³،&lt;br /&gt;و-1,000 ملل = 1 لتر.</target>
+        <target>تعلمنا أن: 1 ملل = 1 سم³،&lt;br /&gt;و1,000 ملل = 1 لتر.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11835,7 +11822,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate without addin
       </trans-unit>
       <trans-unit id="08-07-99-030">
         <source>ולכן 1,250 סמ"ק שווים ל-1.25 ליטר.</source>
-        <target>وبالتالي 1,250 سم³ تساوي 1.25 لتر.</target>
+        <target>ولذلك 1,250 سم³ تساوي 1.25 لتر.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11845,7 +11832,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate without addin
       </trans-unit>
       <trans-unit id="08-07-99-031">
         <source>כאשר האקווריום מלא עד הקצה, כל המים שגולשים החוצה נדחקים על ידי הגוף שהוכנס לתוכו.</source>
-        <target>عندما يكون الحوض ممتلئًا حتى الحافة، فإن كل الماء الذي يفيض إلى الخارج يتم إزاحته بواسطة الجسم الذي أُدخل فيه.</target>
+        <target>عندما يكون الحوض ممتلئًا حتى الحافة، فإن كل الماء الذي يفيض إلى الخارج يُزيحه الجسم الذي أُدخل فيه.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11855,7 +11842,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate without addin
       </trans-unit>
       <trans-unit id="08-07-99-032">
         <source>לכן, כמות המים שנאספה שווה לנפח הפסל שנמצא בתוך המים.</source>
-        <target>لذلك، كمية الماء التي تم جمعها تساوي حجم التمثال الموجود داخل الماء.</target>
+        <target>لذلك، حجم الماء الذي تم جمعه يساوي حجم التمثال الموجود داخل الماء.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>
@@ -11865,7 +11852,7 @@ Wait, the source doesn't contain placeholders. Let me re-translate without addin
       </trans-unit>
       <trans-unit id="08-07-99-033">
         <source>הטיעון המדעי הנתמך בראייה הוא: בשיטת ההצפה נאספו בממוצע 1,250 מ"ל מים, ונפח המים שנדחק שווה לנפח הגוף שהוכנס למים.</source>
-        <target>الحجة العلمية المدعومة بالدليل هي: في طريقة الإفاضة تم جمع 1,250 ملل من الماء في المتوسط، وحجم الماء الذي تمّ إزاحته يساوي حجم الجسم الذي أُدخل في الماء.</target>
+        <target>الحجة العلمية المدعومة بالدليل هي: في طريقة الإغمار، جُمِع 1,250 ملل من الماء في المتوسط، وحجم الماء المُزاح يساوي حجم الجسم الذي أُدخل في الماء.</target>
         <note from="screen-id">08-07-99</note>
         <note from="screen-title">Part-wide chrome / runtime strings (not tied to one screen)</note>
         <note from="screen-type">chrome</note>

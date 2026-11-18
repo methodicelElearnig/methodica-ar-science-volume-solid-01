@@ -1130,3 +1130,6 @@
   #s24 .meas-vessel.has-object .meas-bowl-object { animation: none; }
 }
 #s24 .meas-vessel.overflowed .meas-tray.is-pourable.dragging { animation: none; }
+
+/* Calibri's kerning collapses the Arabic word "ومنسوب" to zero width at the start of this line (the word vanished); no kerning keeps it. */
+#s3 .companion-bubble p { font-kerning: none; }

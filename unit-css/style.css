@@ -3617,7 +3617,7 @@ html, body {
 }
 /* .dropdown-opt is also .scq-opt — override the pill styling to a list row */
 .dropdown-opt {
-  display: block; width: 100%; justify-content: initial; text-align: right; min-height: auto;
+  display: block; width: 100%; justify-content: initial; text-align: right; min-height: auto; white-space: nowrap;   /* Arabic "المخبار المدرج" wrapped to two lines in the list */
   background: #fff; border: none; border-radius: 8px; padding: 2px 14px;
   font-family: 'Calibri', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 24px; font-weight: 500; color: #303030; cursor: pointer;
 }

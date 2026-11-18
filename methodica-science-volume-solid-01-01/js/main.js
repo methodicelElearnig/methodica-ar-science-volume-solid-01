@@ -737,7 +737,7 @@ const COMIC_DATA = {
     slide: 14, kind: 'panels',
     panels: [{
       src: 'assets/img/comic/14.jpg',
-      alt: 'على اليمين، يقيس أرخميدس صندوقًا بمساعدة مسطرة ويحسب حجمه، وعلى اليسار نضع على الطاولة مفتاح, بلّوطة وكرة',
+      alt: 'على اليمين، يقيس أرخميدس صندوقًا بمساعدة مسطرة ويحسب حجمه، وعلى اليسار نضع على الطاولة مفتاح، بلّوطة وكرة',
       bubbles: [
         /* Side beak, not down-left: the bubble sits at the panel's right edge and Archimedes'
            head is to its LEFT, so trailing circles downward pointed them away from the thinker
@@ -767,18 +767,18 @@ const COMIC_DATA = {
     slide: 15, kind: 'panels',
     panels: [
       { src: 'assets/img/comic/15a.jpg',
-        alt: 'أرخميدس يمسك بأسطوانة مدرجة مملوءة بالماء وبكرة؛ تُظهر دائرة التكبير أن مستوى الماء عند 50 ملل.',
+        alt: 'أرخميدس يمسك بمخبار مدرج مملوء بالماء وبكرة؛ تُظهر دائرة التكبير أن مستوى الماء عند 50 ملل.',
         bubbles: [
-          { type: 'caption', text: 'أرخميدس يملأ الأسطوانة المدرجة بالماء ويسجّل إلى أين يصل الماء: 50 ملل.' },
+          { type: 'caption', text: 'أرخميدس يملأ المخبار المدرج بالماء ويسجّل إلى أين يصل الماء: 50 ملل.' },
           /* Left of him, beak on its right edge at mid-height pointing back at him; break after
              the dash; kept above the magnifier (QA 2026-10-08). */
           { type: 'speech', tail: 'right', r: 47, t: 6, w: 30, ty: '50%',
-            text: 'إذا أدخلنا الكرة في الأسطوانة المدرجة\n– سيرتفع مستوى الماء!' }
+            text: 'إذا أدخلنا الكرة في المخبار المدرج\n– سيرتفع مستوى الماء!' }
         ] },
       { src: 'assets/img/comic/15b.jpg',
-        alt: 'أرخميدس ينظر إلى الأسطوانة المدرجة ويفكّر.',
+        alt: 'أرخميدس ينظر إلى المخبار المدرج ويفكّر.',
         bubbles: [
-          { type: 'caption', text: 'بعد أن أدخل أرخميدس الكرة إلى الأسطوانة المدرجة مع الماء، ارتفع مستوى الماء إلى 62 ملل.' },
+          { type: 'caption', text: 'بعد أن أدخل أرخميدس الكرة إلى المخبار المدرج مع الماء، ارتفع مستوى الماء إلى 62 ملل.' },
           /* Bubble sits below his head with the circles on its top edge, rising up-left to
              his head — the thought comes down from him into the bubble (QA 2026-10-08). */
           /* Explicit breaks: "מה" moved down to open the last line (QA 2026-10-08). */
@@ -795,10 +795,10 @@ const COMIC_DATA = {
           /* Explicit break: left to wrap, "הגולה!" fell alone onto a third line (QA 2026-10-08). */
           /* Left of him (clear of the raised finger), beak on its right edge at mid-height (QA 2026-10-08). */
           { type: 'speech', tail: 'right', r: 48, t: 4, w: 35, ty: '50%',
-            text: 'آه! كمية الماء الجديدة ناقص\nكمية الماء الأصلية = حجم الكرة!\n\nI need to reconsider - the source doesn\'t contain placeholders, it uses ** for bold. Let me retranslate:\n\nآه! كمية الماء **الجديدة** ناقص\nكمية الماء **الأصلية** = حجم الكرة!' }   // emphasis per slide 15
+            text: 'آه! حجم الماء **الجديد** ناقص\nحجم الماء **الأصلي** = حجم الكرة!' }   // emphasis per slide 15
         ] },
       { src: 'assets/img/comic/15d.jpg',
-        alt: 'تكبير على الأسطوانة المدرجة: الكرة داخل الماء ومستوى الماء يصل إلى 62 ملل.',
+        alt: 'تكبير على المخبار المدرج: الكرة داخل الماء ومستوى الماء يصل إلى 62 ملل.',
         bubbles: [
           { type: 'caption', text: 'ماذا حدث هنا؟' },
           /* Explicit break: "בדיוק." sat alone on a third line; moved up to close line 2 (QA 2026-10-08). */
@@ -830,7 +830,7 @@ const COMIC_DATA = {
           /* s13 rule: every bubble sits to the character's LEFT, beak on its right edge pointing
              back at him (QA 2026-10-08). */
           { type: 'speech', tail: 'right', r: 44, t: 10, w: 31, ty: 50,
-            text: 'أوه! أنا سعيد لأنكم سألتم عن\nأجسام لا تدخل في الأسطوانة المدرجة.' }
+            text: 'أوه! أنا سعيد لأنكم سألتم عن\nأجسام لا تدخل في المخبار المدرج.' }
         ] },
       { src: 'assets/img/comic/17b.jpg',
         alt: 'أرخميدس يُدخل البطيخة في وعاء مملوء بالماء؛ تحت الوعاء صينية عميقة ينسكب إليها الماء.',
@@ -877,7 +877,7 @@ const COMIC_DATA = {
       { src: 'assets/img/comic/17g.jpg',
         alt: 'أرخميدس يحمل ثقلًا صغيرًا.',
         bubbles: [
-          { type: 'banner', t: 80, fit: true, text: 'هذه هي طريقة الإفاضة!' },   // pill hugs the text (QA 2026-10-08)
+          { type: 'banner', t: 80, fit: true, text: 'هذه هي طريقة الإغمار!' },   // pill hugs the text (QA 2026-10-08)
           /* Explicit break so "שישקע." no longer sits alone (QA 2026-10-08). Moved to his left (the
              frame's left side), beak on the right edge pointing back to his mouth (QA 2026-10-08). */
           { type: 'speech', tail: 'right', r: 53, t: 14, w: 34, ty: 55,
@@ -1375,7 +1375,7 @@ function dispReset() {
   document.getElementById('disp-drag-hint').classList.remove('is-hidden');
   document.getElementById('disp-cylinder').classList.remove('risen');
   document.getElementById('disp-badge').textContent = '50 ملل';
-  document.getElementById('disp-instruction').textContent = 'أدخلوا الكرة إلى داخل الأسطوانة المدرجة.';
+  document.getElementById('disp-instruction').textContent = 'أدخلوا الكرة إلى داخل المخبار المدرج.';
   document.getElementById('disp-reset').classList.add('is-hidden');
   document.getElementById('s17-continue').disabled = true;
 }
@@ -1628,7 +1628,7 @@ function aqEnter() {
        earlier revision; the question asks about a crystal, so the subject follows the question.
      - deck expressions are wrapped in .section-result-expr: digits and operators are
        bidi-neutral and reorder inside an RTL paragraph without it. */
-const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجدداً؟'] };
+const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجددًا؟'] };
 const FB_WRONG2 = 'الإجابة غير صحيحة.<br />الإجابة الصحيحة تم تحديدها.';
 /* `wrong2Extra`: a line the deck adds to the wrong-final popup only (used by Part 02's Q1). */
 const fbPopups = (correctTitle, explanation, wrong2Extra) => ({
@@ -1644,7 +1644,7 @@ scqRegister({
   startLocked: true,
   item: '02',
   popups: fbPopups('صحيح جدًا!', [   /* sb20/22/23 */
-    'لقياس حجم صندوق نستخدم المسطرة: نقيس أحد أضلاع المكعب ونضربه في نفسه ثلاث مرات - مرة للطول، ومرة للعرض، ومرة للارتفاع.',
+    'لقياس حجم مكعب نستخدم المسطرة: نقيس أحد أضلاع المكعب ونضربه في نفسه ثلاث مرات - مرة للطول، ومرة للعرض، ومرة للارتفاع.',
     'طول الضلع في هذه الحالة هو 10 سم وبما أن جميع الأضلاع في المكعب متساوية:',
     '<span class="section-result-expr">10 · 10 · 10 = 1,000</span>']),
   /* ⚠️ goTo(16), NOT goTo(17). This screen advances through its own check button rather than
@@ -2074,7 +2074,7 @@ ddqRegister({
     { id: 'wu-cup',   label: 'كم من الماء يوجد في الكأس؟',                    img: 'assets/img/s28-task-water-cup.jpg',  w: 72 }
   ],
   targets: [
-    { id: 'wt-pour',     label: 'سكب في اسطوانة مدرجة' },
+    { id: 'wt-pour',     label: 'سكب في مخبار مدرج' },
     { id: 'wt-ruler',    label: 'القياس بالمسطرة' },
     { id: 'wt-scale',    label: 'القياس بميزان رقمي' },
     { id: 'wt-displace', label: 'طريقة إزاحة الماء' },
@@ -2092,7 +2092,7 @@ ddqRegister({
   popups: {
     retry:     FB_RETRY,
     correct:   { title: 'تطابق مثالي!', body: ['كل أداة وطريقة قياس تناسب مهمة مختلفة.', 'لكي نختار بشكل صحيح، من المهم تحديد ما نريد قياسه وما إذا كان الأمر يتعلق بسائل، أو جسم ذي شكل هندسي، أو جسم ذي شكل معقّد.'] },
-    incorrect: { title: 'الإجابة غير صحيحة.', body: ['كل أداة وطريقة قياس تناسب مهمة مختلفة.', 'لاختيار الطريقة الصحيحة، من المهم تحديد ما نريد قياسه وما إذا كان سائلاً، أو جسمًا ذا شكل هندسي، أو جسمًا ذا شكل معقّد.'] }
+    incorrect: { title: 'الإجابة غير صحيحة.', body: ['كل أداة وطريقة قياس تناسب مهمة مختلفة.', 'لاختيار الطريقة الصحيحة، من المهم تحديد ما نريد قياسه وما إذا كان سائلًا، أو جسمًا ذا شكل هندسي، أو جسمًا ذا شكل معقّد.'] }
   },
   onFinish: function (ok) { warmupFinish(0, 's28', ok); },
   onContinue: function () { goTo(29); }
@@ -2104,7 +2104,7 @@ scqRegister({
   correctId: 'a',
   item: '04',
   popups: fbPopups('صحيح جدًا!', [   /* sb48/49 */
-    'عندما نضع جسمًا صلبًا في الماء، يشغل الجسم حيزًا داخل الاسطوانة المدرجة ولذلك يرتفع مستوى الماء.',
+    'عندما نضع جسمًا صلبًا في الماء، يشغل الجسم حيزًا داخل المخبار المدرج ولذلك يرتفع مستوى الماء.',
     'الفرق بين قراءة الحجم قبل إدخال الجسم وبعده يساوي حجم الجسم.']),
   onFinish: function (ok) {   // reflect result on the dropdown trigger, and on the warm-up bar
     dqSyncView('s29');
@@ -2302,18 +2302,18 @@ function guessEnter(screen) {
 const MEAS = {
   1: { screen: 23, obj: true, objImg: 's23-chess-king.svg', objLabel: 'قطعة شطرنج', correct: 'cyl',
        instruction: 'المرحلة 1: اسحبوا قطع الشطرنج إلى أداة القياس المناسبة.' },
-  2: { screen: 23, input: true, instruction: 'المرحلة 2: قيسوا مستوى الماء في الاسطوانة المدرجة الآن وأدخلوا حجم قطعة الشطرنج.',
+  2: { screen: 23, input: true, instruction: 'المرحلة 2: قيسوا مستوى الماء في المخبار المدرج الآن وأدخلوا حجم قطعة الشطرنج.',
        inputLabel: 'حجم قطعة الشطرنج (ملل):',
        /* The formula is an LRI…PDI isolate with no-break spaces — the same one-line LTR unit as
           .section-result-expr, which textContent cannot carry (QA 2026-10-12). */
-       reveal: 'حجم قطعة الشطرنج هو 15 ملل. مستوى الماء الأصلي في الاسطوانة المدرجة كان 50 ملل وارتفع إلى 65 ملل، ولذلك: \u206665 − 50 = 15\u2069.' },
+       reveal: 'حجم قطعة الشطرنج هو 15 ملل. مستوى الماء الأصلي في المخبار المدرج كان 50 ملل وارتفع إلى 65 ملل، ولذلك: \u206665 − 50 = 15\u2069.' },
   /* Deck slide 36 states the instruction without explaining WHY the cylinder is wrong — naming
      "too big for the cylinder" here would hand over the judgement this step exists to test. */
   3: { screen: 24, obj: true, /* ?v=2 — the file was re-exported under the same name (upright -> lying down), and this
         path is written from JS, so it needs the buster the markup copies carry. */
        objImg: 's23-hammer.png', objClass: 'meas-obj-img--hammer', objLabel: 'مطرقة', correct: 'bowl',
        /* Two lines (QA 2026-10-11): the question naming both methods, then the action in bold. */
-       instructionHtml: 'كيف نقيس حجم المطرقة – بإزاحة الماء (في الاسطوانة المدرجة) أم بإفاضة الماء (في وعاء الإفاضة)؟<br><strong>اسحبوا المطرقة إلى أداة القياس المناسبة.</strong>' },
+       instructionHtml: 'كيف نقيس حجم المطرقة – بإزاحة الماء (في المخبار المدرج) أم بالإغمار (في وعاء التجميع)؟<br><strong>اسحبوا المطرقة إلى أداة القياس المناسبة.</strong>' },
   /* `pour` gates the input behind a real action: slide 37 says the level reaches 250 מ"ל "לאחר
      שהלומד שופך את המים לתוך כלי המדידה" — after the LEARNER pours. The target is the graduated
      MEASURING VESSEL (`mv`), not the משורה: slide 36 is explicit that the משורה still reads 65,
@@ -2321,7 +2321,7 @@ const MEAS = {
   4: { screen: 24, input: true, last: true, pour: true, correct: 'mv',
        instruction: 'المرحلة 4: اسكبوا الماء من وعاء التجميع إلى وعاء القياس واكتبوا حجم المطرقة.',
        inputLabel: 'حجم المطرقة (ملل):',
-       reveal: 'الماء الذي انسكب كان بحجم 250 ملل — أي أن حجم المطرقة هو 250 ملل، لأنها أزاحت للخارج كمية من الماء تساوي حجمها!' }
+       reveal: 'الماء الذي انسكب كان بحجم 250 ملل — أي أن حجم المطرقة هو 250 ملل، لأنها أزاحت للخارج حجمًا من الماء يساوي حجمها!' }
 };
 let measStep = 1, measDone = false, measRevealed = false, measPoured = false;
 const measDnd = {};

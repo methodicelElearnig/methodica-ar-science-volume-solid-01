@@ -421,7 +421,7 @@ function registerPractice(idx, cfg) {
        deck's usual "נכון מאוד!".
      - deck expressions are wrapped in .section-result-expr: digits and operators are
        bidi-neutral and reorder inside an RTL paragraph without it. */
-const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجدداً؟'] };
+const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجددًا؟'] };
 const FB_WRONG2 = 'الإجابة غير صحيحة.<br />الإجابة الصحيحة تم تحديدها.';
 const fbPopups = (correctTitle, explanation) => ({
   retry:   FB_RETRY,
@@ -437,22 +437,22 @@ registerPractice(0, {  // Basic 1 — non-geometric body
 registerPractice(1, {  // Basic 2 — who is right
   correctId: 'b', item: '02',
   popups: fbPopups('صحيح جدًا!', [   /* sb85/86 */
-    'لقياس حجم جسم غير منتظم الشكل نستخدم طريقة إزاحة الماء – نُدخله في الاسطوانة المدرجة ونتحقق من مقدار ارتفاع الماء. الفرق بين كمية الماء الأصلية والكمية الجديدة = حجم الجسم!'])
+    'لقياس حجم جسم غير منتظم الشكل نستخدم طريقة إزاحة الماء – نُدخله في المخبار المدرج ونتحقق من مقدار ارتفاع الماء. الفرق بين حجم الماء الأصلي والحجم الجديد = حجم الجسم!'])
 });
 registerPractice(2, {  // Basic 3 — which tool
   correctId: 'b', item: '03',
-  popups: fbPopups('صحيح جدًا!', [   /* sb88/90/91 */
-    'يمكن إدخال جسم معيّن في الاسطوانة المدرجة تحتوي على ماء وقياس حجمه وفقًا لكمية الماء التي ارتفعت.'])
+  popups: fbPopups('صحيح جدًّا!', [   /* sb88/90/91 */
+    'لقياس حجم جسم غير منتظم الشكل نستخدم طريقة إزاحة الماء – نُدخله في المخبار المدرج ونتحقق من مقدار ارتفاع الماء. الفرق بين كمية الماء الأصلية والكمية الجديدة = حجم الجسم!'])
 });
 registerPractice(3, {  // Basic 4 — flooding 760
   correctId: 'b', item: '04',
   popups: fbPopups('صحيح جدًا!', [   /* sb93/95/96 */
-    'جسم يُغمر في الماء يتسبب في إزاحة كمية من الماء مساوية تمامًا لحجمه. لذلك فإن حجم الأسطوانة هو بالضبط 760 ملل.'])
+    'جسم يُغمر في الماء يزيح حجمًا من الماء يساوي حجمه تمامًا. لذلك فإن حجم الأسطوانة هو بالضبط 760 ملل.'])
 });
 registerPractice(4, {  // Standard-ב 1 — rise area
   correctId: 'b', item: '05', hintAfterWrong: true,   // slide 101
   popups: fbPopups('إجابة صحيحة!', [   /* sb100/102/103 */
-    'المنطقة التي نرى فيها كمية الماء التي ارتفعت في الاسطوانة المدرجة هي التي تمثل حجم الوحش.'])
+    'المنطقة التي نرى فيها حجم الماء الذي ارتفع في المخبار المدرج هي التي تمثل حجم الوحش.'])
 });
 registerPractice(5, {  // Standard-ב 2 — single bead = 10
   correctId: 'a', item: '06', hintAfterWrong: true,   // slide 106

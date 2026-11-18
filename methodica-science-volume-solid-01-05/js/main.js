@@ -366,7 +366,7 @@ function registerPractice(idx, cfg) { cfg.screen = 's' + practiceProgress.questi
    Slides 128 and 134 write `התשובה הנכונה מוצגת.` where 118/123/139 write `מסומנת.`;
    the unit marks the correct option, so FB_WRONG2 keeps `מסומנת` everywhere
    (docs-and-tools/TEXT-FIDELITY.md §Deck defects). */
-const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجدداً؟'] };
+const FB_RETRY  = { title: 'الإجابة غير صحيحة.', body: ['هل نحاول مجددًا؟'] };
 const FB_WRONG2 = 'الإجابة غير صحيحة.<br />الإجابة الصحيحة تم تحديدها.';
 const fbPopups = explanation => ({
   retry:   FB_RETRY,
@@ -375,7 +375,7 @@ const fbPopups = explanation => ({
 });
 
 registerPractice(0, { correctId: 'a', item: '01', qKey: 'q1', hintAfterWrong: true, popups: fbPopups([   /* sb117/118 */
-  'رفع الخاتم مستوى الماء في الاسطوانة المدرجة.',
+  'رفع الخاتم مستوى الماء في المخبار المدرج.',
   'الارتفاع في مستوى الماء هو الدليل الذي يمكن من خلاله قياس حجم الخاتم، لأنّ حجم الماء الذي تمّ إزاحته يساوي حجم الجزء المغمور من الخاتم.']) });
 registerPractice(1, { correctId: 'b', item: '02', qKey: 'q1', hintAfterWrong: true, popups: fbPopups([   /* sb122/123 */
   'العدس مادة صلبة حبيبية ويمكن قياس حجمه<br />باستخدام كوب قياس:',
@@ -383,9 +383,9 @@ registerPractice(1, { correctId: 'b', item: '02', qKey: 'q1', hintAfterWrong: tr
 registerPractice(2, { correctId: 'a', item: '03', qKey: 'q1', hintAfterWrong: true, popups: fbPopups([   /* sb127/128 */
   'القياسات موثوقة لأن النتائج المتكررة قريبة جدًا من بعضها البعض.']) });
 registerPractice(3, { correctId: 'b', item: '04', qKey: 'q1', hintAfterWrong: true, popups: fbPopups([   /* sb133/134 */
-  'إذا لفّت ليان ثقلًا صغيرًا بالسلايم وأدخلته في الاسطوانة المدرجة – فإن السلايم سيغرق وستتمكن من قياس حجمه.']) });
+  'إذا لفّت ليان ثقلًا صغيرًا بالسلايم وأدخلته في المخبار المدرج – فإن السلايم سيغرق وستتمكن من قياس حجمه.']) });
 registerPractice(4, { correctId: 'd', item: '04', qKey: 'q2', hintAfterWrong: true, popups: fbPopups([   /* sb138/139 */
-  '<span class="fb-equation">الحجم النهائي للماء في الاسطوانة المدرجة = حجم الماء الابتدائي + حجم الثقل + حجم السلايم.</span>',
+  '<span class="fb-equation">الحجم النهائي للماء في المخبار المدرج = حجم الماء الابتدائي + حجم الثقل + حجم السلايم.</span>',
   'يجب طرح الحجم الابتدائي وحجم الثقل من الحجم الذي تم الحصول عليه للحصول على حجم السلايم.']) });
 
 /* סעיפים א-ג of the marbles question (s6–s8): per-סעיף feedback, 2 attempts, no hints (slide 141).

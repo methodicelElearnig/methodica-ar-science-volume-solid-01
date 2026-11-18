@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>وحدة تعليمية — قياس حجم جسم صلب</title>
   <!-- Local fonts only — no external CDN (720 rule). @font-face is in style.css. -->
-  <link rel="stylesheet" href="../unit-css/style.css?v=20261020">
-  <link rel="stylesheet" href="css/style.css?v=20261020">
+  <link rel="stylesheet" href="../unit-css/style.css?v=20261118c">
+  <link rel="stylesheet" href="css/style.css?v=20261118c">
 </head>
 <body data-subject-theme="science">
 
@@ -100,7 +100,7 @@
 
       <div class="option-cards" role="radiogroup" aria-label="اختاروا شخصية">
         <div class="option-card" role="radio" aria-checked="false" tabindex="0"
-             data-value="orange" aria-label="شخصية برتقالية تحمل أسطوانة مدرجة فارغة" onclick="selectOption(this)">
+             data-value="orange" aria-label="شخصية برتقالية تحمل مخبارًا مدرجًا فارغًا" onclick="selectOption(this)">
           <div class="option-card-img">
             <video src="assets/img/character-orange-select.mp4?v=1" muted loop playsinline preload="auto"
                    aria-hidden="true"></video>
@@ -135,7 +135,7 @@
         <div class="hook-img-frame">
           <video id="s1-video" class="hook-video" data-xapi-report="01" src="assets/video/s1-roni-hook.mp4"
                  poster="assets/img/s1-roni-hook.jpg" autoplay muted playsinline controls preload="metadata"
-                 aria-label="فيديو: ملك  تجد قلادة ذهبية على شاطئ البحر"></video>
+                 aria-label="فيديو: ملك تجد قلادة ذهبية على شاطئ البحر"></video>
         </div>
         <div class="hook-narration">
           <p>ملك حصلت على جهاز كشف معادن جديد وهي تحاول العثور على أشياء ثمينة على شاطئ البحر.</p>
@@ -144,12 +144,12 @@
       </div>
     </div>
     <div class="companion-say companion-say--right">
-      <p class="companion-bubble" style="--bubble-w: 300px;">كيف يمكن لملك  أن تعرف<br/>ما حجم القلادة؟</p>
+      <p class="companion-bubble" style="--bubble-w: 300px;">كيف يمكن لملك أن تعرف<br/>ما حجم القلادة؟</p>
       <video class="companion" src="assets/img/character-orange-examine.mp4?v=2" aria-hidden="true"
            data-pose="examine" draggable="false" autoplay loop muted playsinline></video>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s1-continue" onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s1-continue" onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -164,7 +164,7 @@
     <div class="hook-content">
       <div class="hook-stage">
         <div class="hook-img-frame">
-          <img src="assets/img/s2-roni-think.jpg" alt="ملك تمسك القلادة بيد واحدة وأسطوانة مدرجة فيها ماء باليد الأخرى">
+          <img src="assets/img/s2-roni-think.jpg" alt="ملك تمسك القلادة بيد واحدة ومخبارًا مدرجًا فيه ماء باليد الأخرى">
         </div>
         <div class="hook-narration">
           <p class="hook-open-prompt">فكّروا في فكرة أو فكرتين - كيف يمكن لملك قياس <span style="white-space: nowrap;">حجم القلادة؟</span></p>
@@ -189,7 +189,7 @@
     <div class="hook-content">
       <div class="hook-stage">
         <div class="hook-img-frame">
-          <img src="assets/img/s3-roni-displacement.jpg" alt="ملك تمسك القلادة وأسطوانة مدرجة بها ماء">
+          <img src="assets/img/s3-roni-displacement.jpg" alt="ملك تمسك القلادة ومخبارًا مدرجًا به ماء">
         </div>
         <div class="hook-narration">
           <div class="companion-say companion-say--inline companion-say--right">
@@ -204,7 +204,7 @@
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s3-continue" onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s3-continue" onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -237,7 +237,7 @@
             <img src="assets/img/s4-opt-planter.jpg" alt="حوض زراعة يحتوي على تربة ونبتة">
             <span class="imgq-check" aria-hidden="true"></span>
           </div>
-          <span class="imgq-card-caption">لمعرفة كمية التراب التي يجب ملؤها في حوض الزراعة</span>
+          <span class="imgq-card-caption">لمعرفة التراب اللازم لملء حوض الزراعة بالكامل</span>
           <p class="imgq-card-feedback">صحيح! حوض الزراعة يمكنه أن يتّسع لحجم معيّن من التراب، إذا عرفنا ما هو يمكننا ملء حوض الزراعة بكمية دقيقة من التراب!</p>
         </button>
         <button class="imgq-card" type="button" data-value="apple" onclick="imgqToggle(this)">
@@ -251,7 +251,7 @@
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s4-continue" onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s4-continue" onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -269,7 +269,7 @@
       <div class="hook-stage">
         <div class="hook-img-frame">
           <button class="img-zoom-btn" type="button" aria-label="تكبير الصورة"
-                  data-zoom-src="assets/img/s5-archimedes-crown.jpg" data-zoom-alt="الملك هيرون وأرخميدس يفحصان تاجًا ذهبيًا مزخرفًا، وعلى الطاولة أسطوانة مدرجة مملوءة بالماء ومكعبات معدنية">
+                  data-zoom-src="assets/img/s5-archimedes-crown.jpg" data-zoom-alt="الملك هيرون وأرخميدس يفحصان تاجًا ذهبيًا مزخرفًا، وعلى الطاولة مخبار مدرج مملوء بالماء ومكعبات معدنية">
             <svg class="img-zoom-btn__icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="2"/><path d="M13.2 13.2L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
           <img src="assets/img/s5-archimedes-crown.jpg" alt="الملك هيرون وأرخميدس يفحصان تاجًا ذهبيًا مزخرفًا">
@@ -279,12 +279,12 @@
         <div class="hook-narration">
           <h1 class="hook-title">هل تعلمون أن طريقة قياس الحجم تم اختراعها<br/>قبل آلاف السنين في اليونان القديمة؟</h1>
           <p>الملك هيرون الثاني حصل على تاج جديد،<br/>لكنه اشتبه في أن التاج ليس مصنوعًا من ذهب خالص.<br/>فطلب من أرخميدس أن يتحقق من ذلك دون إلحاق أي ضرر بالتاج.</p>
-          <p>أدرك أرخميدس أنه يجب عليه أولاً قياس حجم التاج،<br/>لكن شكله المعقّد والمزخرف صعّب عليه<br/>إيجاد طريقة للقيام بذلك.</p>
+          <p>أدرك أرخميدس أنه يجب عليه أولًا قياس حجم التاج،<br/>لكن شكله المعقّد والمزخرف صعّب عليه<br/>إيجاد طريقة للقيام بذلك.</p>
         </div>
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s5-continue" onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s5-continue" onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -312,7 +312,7 @@
       <div class="hook-stage">
         <div class="hook-img-frame">
           <button class="img-zoom-btn" type="button" aria-label="تكبير الصورة"
-                  data-zoom-src="assets/img/s6-archimedes-bath.jpg?v=2" data-zoom-alt="أرخميدس في حوض الاستحمام يمسك تاجاً، والماء يفيض من الحوض">
+                  data-zoom-src="assets/img/s6-archimedes-bath.jpg?v=2" data-zoom-alt="أرخميدس في حوض الاستحمام يمسك تاجًا، والماء يفيض من الحوض">
             <svg class="img-zoom-btn__icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="2"/><path d="M13.2 13.2L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
           </button>
           <img src="assets/img/s6-archimedes-bath.jpg?v=2" alt="أرخميدس في حوض الاستحمام يمسك تاجًا، والماء يفيض من الحوض إلى الخارج">
@@ -320,13 +320,13 @@
         </div>
         <div class="hook-narration">
           <p>في أحد الأيام، أثناء استحمامه في حوض الاستحمام، لاحظ أرخميدس أن مستوى الماء يرتفع عندما يدخل إلى الماء.</p>
-          <p>فهم أنه يمكن <strong>قياس حجم جسم من خلال كمية الماء التي يزيحها من الوعاء الذي يوجد فيه</strong>، وصرخ بحماس: "يوريكا!" "وجدتها!".</p>
+          <p>فهم أنه يمكن <strong>قياس حجم جسم من خلال حجم الماء الذي يزيحه من الوعاء الذي يوجد فيه</strong>، وصرخ بحماس: "يوريكا!" "وجدتها!".</p>
           <p>هكذا وُلدت طريقة إزاحة الماء، التي تُستخدم لقياس حجم الأجسام ذات الأشكال المعقّدة حتى يومنا هذا.</p>
         </div>
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s6-continue" onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s6-continue" onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -407,7 +407,7 @@
 
       <div class="comic-row">
         <div class="comic-frame">
-          <div class="comic-viewport" id="s8-viewport" role="group" aria-roledescription="لوحة  قصص مصوّرة" aria-label="لوحات القصة">
+          <div class="comic-viewport" id="s8-viewport" role="group" aria-roledescription="لوحة قصص مصوّرة" aria-label="لوحات القصة">
             <div class="comic-track" id="s8-track"><!-- built by comicBuild('s8') --></div>
           </div>
           <!-- Unclipped twin of the viewport: the speech bubbles are built in HERE,
@@ -427,7 +427,7 @@
     <button class="comic-side-arrow comic-side-arrow--prev" id="s8-prev" type="button" onclick="comicArrowPrev('s8')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s8-next" type="button" onclick="comicArrowNext('s8')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s8-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s8-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -469,7 +469,7 @@
     <button class="comic-side-arrow comic-side-arrow--prev" id="s9-prev" type="button" onclick="comicArrowPrev('s9')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s9-next" type="button" onclick="comicArrowNext('s9')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s9-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s9-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -501,8 +501,8 @@
       </div>
       <div class="s10-row">
       <div class="s10-main">
-      <p class="exp-instruction">خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات<br/>أشكال مختلفة (مثلاً، تاج)؟</p>
-      <div class="scq-answers guess-options" id="s10-guess" role="radiogroup" aria-label="خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات أشكال مختلفة (مثلاً، تاج)؟">
+      <p class="exp-instruction">خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات<br/>أشكال مختلفة (مثلًا، تاج)؟</p>
+      <div class="scq-answers guess-options" id="s10-guess" role="radiogroup" aria-label="خمّنوا: كيف نقيس حجم أجسام غير هندسية ذات أشكال مختلفة (مثلًا، تاج)؟">
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="guessPick('s10', this)"><span class="scq-opt-text">نقوم بوزنها</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="b" onclick="guessPick('s10', this)"><span class="scq-opt-text">نقطّعها إلى أجزاء ونقيسها بالمسطرة</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="c" onclick="guessPick('s10', this)"><span class="scq-opt-text">نضعها في الماء</span><span aria-hidden="true" class="scq-radio"></span></button>
@@ -521,14 +521,14 @@
     <div class="companion-say companion-say--left" style="left: 120px; bottom: 88px;">
       <video class="companion" src="assets/img/character-orange-ask.mp4?v=4" aria-hidden="true"
            data-pose="ask" draggable="false" autoplay loop muted playsinline style="--cw: 179px;"></video>
-      <p class="companion-bubble hidden" id="s10-guess-bubble" style="--bubble-w: 240px;">سنتعلم لاحقًا كيف نقوم بذلك بالضبط !</p>
+      <p class="companion-bubble hidden" id="s10-guess-bubble" style="--bubble-w: 240px;">سنتعلم لاحقًا كيف نقوم بذلك بالضبط!</p>
     </div>
     <!-- Carousel arrows (Figma 720-UI-Templates "Carousel"): they page the WHOLE comic — panels
          first, then across to the next/previous comic screen. RTL: prev on the right, next on the left. -->
     <button class="comic-side-arrow comic-side-arrow--prev" id="s10-prev" type="button" onclick="comicArrowPrev('s10')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s10-next" type="button" onclick="comicArrowNext('s10')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s10-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s10-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -571,7 +571,7 @@
     <button class="comic-side-arrow comic-side-arrow--prev" id="s11-prev" type="button" onclick="comicArrowPrev('s11')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s11-next" type="button" onclick="comicArrowNext('s11')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s11-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s11-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -594,10 +594,10 @@
           <span>قراءة قصة مصوّرة</span></button>
       </div>
       <div class="exp-head exp-head--question">
-        <h1 class="exp-title">قياس حجم جسم لا يتّسع في الأسطوانة المدرجة</h1>
-        <p class="exp-instruction"><strong>تخمين: ماذا عن الأجسام الكبيرة التي لا تدخل في الأسطوانة المدرجة؟</strong></p>
+        <h1 class="exp-title">قياس حجم جسم لا يتّسع في المخبار المدرج</h1>
+        <p class="exp-instruction"><strong>تخمين: ماذا عن الأجسام الكبيرة التي لا تدخل في المخبار المدرج؟</strong></p>
       </div>
-      <div class="scq-answers guess-options" id="s12-guess" role="radiogroup" aria-label="خمّنوا: ماذا بالنسبة للأجسام الكبيرة التي لا تدخل في الأسطوانة المدرجة؟">
+      <div class="scq-answers guess-options" id="s12-guess" role="radiogroup" aria-label="خمّنوا: ماذا بالنسبة للأجسام الكبيرة التي لا تدخل في المخبار المدرج؟">
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="guessPick('s12', this)"><span class="scq-opt-text">نقوم بوزنها</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="b" onclick="guessPick('s12', this)"><span class="scq-opt-text">نقيس طولها</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="c" onclick="guessPick('s12', this)"><span class="scq-opt-text">نضعهما في وعاء ماء كبير آخر</span><span aria-hidden="true" class="scq-radio"></span></button>
@@ -623,7 +623,7 @@
     <button class="comic-side-arrow comic-side-arrow--prev" id="s12-prev" type="button" onclick="comicArrowPrev('s12')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s12-next" type="button" onclick="comicArrowNext('s12')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s12-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s12-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -664,7 +664,7 @@
     <button class="comic-side-arrow comic-side-arrow--prev" id="s13-prev" type="button" onclick="comicArrowPrev('s13')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s13-next" type="button" onclick="comicArrowNext('s13')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s13-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s13-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -706,7 +706,7 @@
     <button class="comic-side-arrow comic-side-arrow--prev" id="s14-prev" type="button" onclick="comicArrowPrev('s14')" aria-label="السابق"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <button class="comic-side-arrow comic-side-arrow--next" id="s14-next" type="button" onclick="comicArrowNext('s14')" aria-label="التالي"><svg class="comic-side-arrow__icon" width="22" height="40" viewBox="0 0 22 40" aria-hidden="true"><path d="M20.2632 0C21.0298 0.0469 21.7407 0.5935 21.9325 1.3359C22.1186 1.9745 21.9068 2.6931 21.4209 3.1457C15.7569 8.7663 10.0854 14.3795 4.4214 20C10.0854 25.6206 15.7577 31.2338 21.4218 36.8536C21.9491 37.3457 22.1484 38.1499 21.8819 38.8215C21.6394 39.4881 20.9725 39.9523 20.264 39.9992H20.0888C19.5955 39.968 19.1312 39.7408 18.7916 39.3869C12.709 33.3581 6.6222 27.3309 0.5429 21.2988C-0.1796 20.6223 -0.1821 19.3778 0.5429 18.7029C6.623 12.6692 12.709 6.6429 18.7907 0.6132C19.1304 0.2585 19.5955 0.0313 20.0905 0H20.2632Z" fill="currentColor"/></svg></button>
     <div class="nav-bar">
-      <button class="btn-continue" id="s14-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s14-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -881,7 +881,7 @@
       <p class="companion-bubble hidden" id="s16-guess-bubble" style="--bubble-w: 240px;">لا تقلقوا، لن تبقوا فضوليين! سنتعلم الأن كيف نفعل ذلك!</p>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s16-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s16-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -915,13 +915,13 @@
       </div>
       <div class="exp-head">
         <h1 class="exp-title">طريقة أرخميدس – "إزاحة الماء"</h1>
-        <p class="exp-instruction" id="disp-instruction">أدخلوا الكرة إلى داخل الاسطوانة المدرجة.</p>
+        <p class="exp-instruction" id="disp-instruction">أدخلوا الكرة إلى داخل المخبار المدرج.</p>
       </div>
       <div class="disp-stage">
         <div class="disp-applet">
           <div class="disp-vessel-col">
           <div class="disp-cylinder-wrap" id="disp-cylinder">
-            <img class="disp-cylinder-img" src="assets/img/s17-cylinder.svg?v=4" alt="الاسطوانة المدرجة يحتوي على ماء حتى خط 50 ملل" draggable="false">
+            <img class="disp-cylinder-img" src="assets/img/s17-cylinder.svg?v=4" alt="المخبار المدرج يحتوي على ماء حتى خط 50 ملل" draggable="false">
             <div class="disp-water" id="disp-water"></div>
             <img class="disp-sunk-marble" id="disp-sunk-marble" src="assets/img/s17-marble.svg?v=2" alt="" draggable="false">
             <!-- Starting-level reference, same marker as s23/s24. Shown once the water has risen
@@ -931,7 +931,7 @@
           </div>
           <div class="disp-marble-zone">
             <img id="disp-marble" src="assets/img/s17-marble.svg?v=2" alt="كرة زجاجية خضراء — قابلة للسحب" draggable="false">
-            <p class="disp-drag-hint" id="disp-drag-hint">اسحبوني إلى الاسطوانة المدرجة</p>
+            <p class="disp-drag-hint" id="disp-drag-hint">اسحبوني إلى المخبار المدرج</p>
           </div>
           <!-- `is-hidden` (visibility), not the `hidden` ATTRIBUTE: taking it out of flow and putting it
                back on the drop shifted the applet by 29px. It reserves its space from the first paint.
@@ -942,7 +942,7 @@
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s17-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s17-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -972,10 +972,10 @@
       <div class="split-stage">
       <div class="tip-frame">
         <div class="tip-main">
-          <p class="exp-instruction tip-lead tip-in" style="--k: 0">مبدأ أرخميدس يقول أنه عندما نغمر جسم في الماء، يرتفع منسوب الماء <strong>بكمية مساوية لحجم الجسم تمامًا.</strong><br/><strong>الخلاصة:</strong></p>
+          <p class="exp-instruction tip-lead tip-in" style="--k: 0">مبدأ أرخميدس يقول أنه عندما نغمر جسم في الماء، يرتفع منسوب الماء <strong>بحجم يساوي حجم الجسم تمامًا.</strong><br/><strong>الخلاصة:</strong></p>
           <p class="tip-conclusion tip-in" style="--k: 1"><strong>حجم الماء النهائي ناقص حجم الماء الأصلي<br/>=<br/>حجم الكرة!</strong></p>
           <div class="tip-figure tip-in" style="--k: 2">
-            <div class="disp-cylinder-wrap risen" role="img" aria-label="بداخل الاسطوانة المدرجة الكرة الزجاجية؛ ارتفع مستوى الماء من 50 ملل (الحجم الابتدائي للماء) إلى 62 ملل (الحجم النهائي للماء)، ولذلك حجم الكرة الزجاجية 12 سم³">
+            <div class="disp-cylinder-wrap risen" role="img" aria-label="بداخل المخبار المدرج الكرة الزجاجية؛ ارتفع مستوى الماء من 50 ملل (الحجم الابتدائي للماء) إلى 62 ملل (الحجم النهائي للماء)، ولذلك حجم الكرة الزجاجية 12 سم³">
               <img class="disp-cylinder-img" src="assets/img/s17-cylinder.svg?v=4" alt="" draggable="false">
               <div class="disp-water"></div>
               <img class="disp-sunk-marble" src="assets/img/s17-marble.svg?v=2" alt="" draggable="false">
@@ -997,14 +997,14 @@
           <button class="tip-btn" id="s18-tip-btn" type="button" aria-expanded="false" aria-controls="s18-tip" onclick="tipReveal('s18')"><span>وماذا نفعل مع الأجسام القابلة للذوبان في الماء؟</span><span>اضغطوا لاكتشاف ذلك</span></button>
           <div class="tip-pop" id="s18-tip" hidden>
             <p>مبدأ أرخميدس صالح للأجسام التي لا تذوب في الماء.</p>
-            <p>يمكن تغليف الأجسام الحساسة للماء بطبقة واقية رقيقة قبل إدخالها في الاسطوانة المدرجة.</p>
+            <p>يمكن تغليف الأجسام الحساسة للماء بطبقة واقية رقيقة قبل إدخالها في المخبار المدرج.</p>
           </div>
         </div>
       </div>
     </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s18-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s18-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1028,20 +1028,20 @@
           <span>قراءة قصة مصوّرة</span></button>
       </div>
       <div class="exp-head exp-head--question">
-        <h1 class="exp-title">قياس حجم جسم لا يتّسع في الأسطوانة المدرجة</h1>
-        <p class="exp-instruction">خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في الاسطوانة المدرجة؟</p>
+        <h1 class="exp-title">قياس حجم جسم لا يتّسع في المخبار المدرج</h1>
+        <p class="exp-instruction">خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في المخبار المدرج؟</p>
       </div>
       <!-- 2026-10-11: options + photo share one row (options right, photo left — RTL DOM order),
            so the options start right under the stem instead of below the photo. -->
       <div class="s19-row">
-      <div class="scq-answers guess-options" id="s19-guess" role="radiogroup" aria-label="خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في الاسطوانة المدرجة؟">
+      <div class="scq-answers guess-options" id="s19-guess" role="radiogroup" aria-label="خمّنوا – كيف نقيس حجم أجسام كبيرة لا تدخل في المخبار المدرج؟">
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="a" onclick="guessPick('s19', this)"><span class="scq-opt-text">نقوم بوزنها</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="b" onclick="guessPick('s19', this)"><span class="scq-opt-text">نقيس طولها</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="c" onclick="guessPick('s19', this)"><span class="scq-opt-text">نضعهما في وعاء ماء كبير آخر</span><span aria-hidden="true" class="scq-radio"></span></button>
         <button class="scq-opt guess-opt" type="button" role="radio" aria-checked="false" data-id="d" onclick="guessPick('s19', this)"><span class="scq-opt-text">لا يمكن قياس حجم أجسام كهذه</span><span aria-hidden="true" class="scq-radio"></span></button>
       </div>
       <div class="scq-figure s19-figure">
-        <img src="assets/img/s19-large-bodies.jpg" alt="حجر كبير موضوع بجانب الاسطوانة المدرجة صغيرة لا يمكنه الدخول فيها">
+        <img src="assets/img/s19-large-bodies.jpg" alt="حجر كبير موضوع بجانب مخبار مدرج صغير لا يمكنه الدخول فيه">
       </div>
       </div>
     </div>
@@ -1065,7 +1065,7 @@
       <p class="companion-bubble hidden" id="s19-guess-bubble" style="--bubble-w: 260px; margin-left: -60px; margin-top: 20px;">هيا نتعلم بالضبط كيف نفعل ذلك!</p>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s19-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s19-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1092,7 +1092,7 @@
           <span>قراءة قصة مصوّرة</span></button>
       </div>
       <div class="exp-head">
-        <h1 class="exp-title">"طريقة الإغمار" لجسم لا يدخل في الاسطوانة المدرجة</h1>
+        <h1 class="exp-title">"طريقة الإغمار" لجسم لا يدخل في المخبار المدرج</h1>
         <p class="exp-instruction" id="flood-instruction">أدخلوا الحجر في الوعاء الكبير الممتلئ بالماء <strong>حتى الحافة</strong>.</p>
       </div>
 
@@ -1124,7 +1124,7 @@
 
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s20-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s20-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1157,7 +1157,7 @@
             <p class="exp-instruction">في اللحظة التي دخلت فيها الصخرة إلى الوعاء، فاض الماء الزائد وتصرّف إلى وعاء التجميع السفلي.</p>
             <p class="exp-instruction"><strong>الخلاصة:</strong></p>
           </div>
-          <p class="tip-conclusion tip-in" style="--k: 1"><strong>كمية الماء التي فاضت من الوعاء<br/>=<br/>حجم الصخرة!</strong></p>
+          <p class="tip-conclusion tip-in" style="--k: 1"><strong>حجم الماء الذي فاض من الوعاء<br/>=<br/>حجم الصخرة!</strong></p>
           <div class="tip-figure tip-in" style="--k: 2">
             <div class="flood-scene drained" role="img" aria-label="الصخرة مغمورة في الوعاء المملوء بالماء؛ والماء الذي فاض منه تم جمعه في وعاء التجميع السفلي، الذي عليه تدريجات لقياس الحجم — وهذا هو حجم الصخرة">
               <div class="flood-bowl flooded">
@@ -1182,7 +1182,7 @@
     </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s21-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s21-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1228,14 +1228,14 @@
         <button class="flip-card" type="button" data-card="archaeology" aria-pressed="false" onclick="flipCard('s22', this)">
           <span class="flip-inner">
             <span class="flip-front"><img class="flip-front-img" src="assets/img/s22-card-archaeology.jpg" alt="بقايا أعمدة وأحجار بناء مرتّبة في موقع حفريات روماني"></span>
-            <span class="flip-back"><span class="flip-back-text">يقوم علماء الآثار بقياس حجم التماثيل والقطع الأثرية القديمة باستخدام طرق إزاحة الماء والإفاضة، دون إلحاق الضرر بها.</span></span>
+            <span class="flip-back"><span class="flip-back-text">يقوم علماء الآثار بقياس حجم التماثيل والقطع الأثرية القديمة باستخدام طرق إزاحة الماء والإغمار، دون إلحاق الضرر بها.</span></span>
           </span>
           <span class="flip-caption">علم الآثار</span>
         </button>
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s22-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s22-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1274,7 +1274,7 @@
                  VESSEL — it always did; there was simply nothing here for it to act on, so the
                  cylinder drew empty through both steps (QA 2026-08-29). -->
             <div class="meas-cyl-wrap">
-              <img class="meas-cyl-img" src="assets/img/s17-cylinder.svg?v=4" alt="الاسطوانة المدرجة؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل" draggable="false">
+              <img class="meas-cyl-img" src="assets/img/s17-cylinder.svg?v=4" alt="المخبار المدرج؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل" draggable="false">
               <div class="meas-cyl-water"></div>
               <!-- Fixed reference: the starting level the learner subtracts from. Unlike the badge,
                    it never changes with the step (QA 2026-10-15). -->
@@ -1284,7 +1284,7 @@
                    line + caption as the starting level, shown once the king is in (has-king). -->
               <div class="meas-cyl-end" aria-hidden="true"><span class="meas-cyl-start-text">المستوى النهائي<br/><b>65 ملل</b></span></div>
             </div>
-            <span class="meas-vessel-label">اسطوانة مدرجة</span>
+            <span class="meas-vessel-label">مخبار مدرج</span>
           </div>
           <div class="meas-vessel" id="meas-bowl" data-vessel="bowl">
             <div class="meas-bowl"><div class="meas-bowl-water" id="meas-bowl-water"></div><div class="meas-scale" aria-hidden="true"><i class="lg" data-v="1000" style="--y:9"></i><i style="--y:19"></i><i class="lg" data-v="800" style="--y:29"></i><i style="--y:39"></i><i class="lg" data-v="600" style="--y:49"></i><i style="--y:59"></i></div><img class="meas-bowl-object" src="assets/img/s23-hammer.png" alt="" aria-hidden="true" draggable="false"></div>
@@ -1315,7 +1315,7 @@
          mascot was removed. measRender() only sets textContent and toggles .hidden on the id. -->
     <p class="meas-reveal-pop hidden" id="meas-reveal" role="status"></p>
     <div class="nav-bar">
-      <button class="btn-continue" id="s23-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s23-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1357,7 +1357,7 @@
                  hinted it was not the place to drag the hammer. `has-king` still lifts the water
                  to 65. -->
             <div class="meas-cyl-wrap">
-              <img class="meas-cyl-img" src="assets/img/s17-cylinder.svg?v=4" alt="أسطوانة مدرجة؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل" draggable="false">
+              <img class="meas-cyl-img" src="assets/img/s17-cylinder.svg?v=4" alt="مخبار مدرج؛ مستوى الماء الابتدائي مُشار إليه عند 50 ملل" draggable="false">
               <div class="meas-cyl-water"></div>
               <!-- Fixed reference: the starting level the learner subtracts from. Unlike the badge,
                    it never changes with the step (QA 2026-10-15). -->
@@ -1365,7 +1365,7 @@
               <!-- The final-level marker replaces the old 50→65 badge (QA 2026-10-19). -->
               <div class="meas-cyl-end" aria-hidden="true"><span class="meas-cyl-start-text">مستوى نهائي<br/><b>65 ملل</b></span></div>
             </div>
-            <span class="meas-vessel-label">اسطوانة مدرجة</span>
+            <span class="meas-vessel-label">مخبار مدرج</span>
           </div>
           <div class="meas-vessel" id="meas2-bowl" data-vessel="bowl">
             <div class="meas-bowl-wrap"><div class="meas-bowl"><div class="meas-bowl-water" id="meas2-bowl-water"></div><div class="meas-scale" aria-hidden="true"><i class="lg" data-v="1000" style="--y:9"></i><i style="--y:19"></i><i class="lg" data-v="800" style="--y:29"></i><i style="--y:39"></i><i class="lg" data-v="600" style="--y:49"></i><i style="--y:59"></i></div><img class="meas-bowl-object" src="assets/img/s23-hammer.png" alt="" aria-hidden="true" draggable="false"></div><span class="meas-spill-dome" aria-hidden="true"></span><span class="meas-spill meas-spill--l" aria-hidden="true"></span><span class="meas-spill meas-spill--r" aria-hidden="true"></span><span class="meas-spill-drop meas-spill-drop--l" aria-hidden="true"></span><span class="meas-spill-drop meas-spill-drop--l meas-spill-drop--2" aria-hidden="true"></span><span class="meas-spill-drop meas-spill-drop--r" aria-hidden="true"></span><span class="meas-spill-drop meas-spill-drop--r meas-spill-drop--2" aria-hidden="true"></span></div>
@@ -1405,7 +1405,7 @@
     </div>
     <p class="meas-reveal-pop hidden" id="meas2-reveal" role="status"></p>
     <div class="nav-bar">
-      <button class="btn-continue" id="s24-continue" disabled onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s24-continue" disabled onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1484,7 +1484,7 @@
       </div>
     </div>
     <div class="nav-bar">
-      <button class="btn-continue" id="s26-continue" onclick="advanceScreen()">تابِع</button>
+      <button class="btn-continue" id="s26-continue" onclick="advanceScreen()">متابعة</button>
       <button class="btn-back" onclick="goBack()">رجوع</button>
     </div>
   </section>
@@ -1536,7 +1536,7 @@
     </div>
   </section>
   <div class="scq-popup hidden" id="s28-ddq-popup" role="status" aria-live="polite"><div class="scq-popup-header"><p class="scq-popup-title" id="s28-ddq-popup-title"></p></div><div class="scq-popup-body" id="s28-ddq-popup-body"></div></div>
-  <div class="scq-hint-overlay hidden" id="s28-ddq-hint-overlay" onclick="if(event.target===this)ddqCloseHint('s28')"><div class="scq-hint-popup" role="dialog" aria-modal="true" aria-label="تلميح"><div class="scq-hint-content"><div class="scq-hint-text"><h2 class="scq-hint-title">احسبوا:</h2><div class="scq-hint-body"><p>أولاً فكّروا — ماذا نريد أن نقيس في كل مهمة؟ طول، كتلة، حجم سائل، أم حجم جسم صلب؟ بعد ذلك اختاروا أداة قياس مناسبة.</p></div></div></div><button class="scq-hint-close" type="button" onclick="ddqCloseHint('s28')">العودة للسؤال</button></div></div>
+  <div class="scq-hint-overlay hidden" id="s28-ddq-hint-overlay" onclick="if(event.target===this)ddqCloseHint('s28')"><div class="scq-hint-popup" role="dialog" aria-modal="true" aria-label="تلميح"><div class="scq-hint-content"><div class="scq-hint-text"><h2 class="scq-hint-title">احسبوا:</h2><div class="scq-hint-body"><p>أولًا فكّروا — ماذا نريد أن نقيس في كل مهمة؟ طول، كتلة، حجم سائل، أم حجم جسم صلب؟ بعد ذلك اختاروا أداة قياس مناسبة.</p></div></div></div><button class="scq-hint-close" type="button" onclick="ddqCloseHint('s28')">العودة للسؤال</button></div></div>
 
 
   <!-- ═══ S29 — Warm-up 2 (item 04) · SingleChoiceQuestion (fill-in) ═══ -->
@@ -1561,7 +1561,7 @@
       <div class="dq-side">
       <h2 class="dq-title">مبدأ إزاحة الماء</h2>
       <p class="dq-instruction">أكملوا الجملة التالية بمساعدة قائمة الكلمات.</p>
-      <p class="dq-sentence">لقياس حجم مبراة، نضعها في الماء الموجود في الأسطوانة المدرجة ونتحقق كم:</p>
+      <p class="dq-sentence">لقياس حجم مبراة، نضعها في الماء الموجود في المخبار المدرج ونتحقق كم:</p>
       <span class="dropdown dropdown--block" id="s29-dropdown">
         <button class="dropdown-trigger is-placeholder" id="s29-dropdown-trigger" type="button" onclick="dqToggle('s29')"><span class="dropdown-trigger-text">اختاروا كلمة</span><span aria-hidden="true" class="dropdown-caret">▾</span></button>
         <span class="dropdown-list hidden" id="s29-answers" role="listbox">
@@ -1637,15 +1637,15 @@
   </div>
 
 </div><!-- /#app -->
-<script src="../unit-js/10-identity.js?v=20261020"></script>
-<script src="../unit-js/15-ui.js?v=20261020"></script>
-<script src="../unit-js/20-xapi.js?v=20261020"></script>
-<script src="../unit-js/25-report.js?v=20261020"></script>
-<script src="../unit-js/30-nav.js?v=20261020"></script>
-<script src="../unit-js/40-resume.js?v=20261020"></script>
-<script src="../unit-js/50-loader.js?v=20261020"></script>
-<script src="../unit-js/60-devbridge.js?v=20261020"></script>
-<script src="js/main.js?v=20261020"></script>
-<script src="../unit-js/90-boot.js?v=20261020"></script>
+<script src="../unit-js/10-identity.js?v=20261118c"></script>
+<script src="../unit-js/15-ui.js?v=20261118c"></script>
+<script src="../unit-js/20-xapi.js?v=20261118c"></script>
+<script src="../unit-js/25-report.js?v=20261118c"></script>
+<script src="../unit-js/30-nav.js?v=20261118c"></script>
+<script src="../unit-js/40-resume.js?v=20261118c"></script>
+<script src="../unit-js/50-loader.js?v=20261118c"></script>
+<script src="../unit-js/60-devbridge.js?v=20261118c"></script>
+<script src="js/main.js?v=20261118c"></script>
+<script src="../unit-js/90-boot.js?v=20261118c"></script>
 </body>
 </html>
