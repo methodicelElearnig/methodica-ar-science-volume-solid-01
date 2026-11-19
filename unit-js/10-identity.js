@@ -43,6 +43,13 @@ function shortId(u) { return String(u || '').replace(/\/+$/, '').split('/').pop(
    ⚠️ DEPLOY ALL SEVEN COMPONENT FOLDERS ATOMICALLY when this changes, and on rollback too. */
 var RESUME_ENABLED = true;
 
+/* Fresh start on every load: refreshing the page or reopening the lomda starts the component from
+   screen 0 with no saved answers, attempts or scores (the State document is reset at boot, exactly
+   like ?resetState, but the mascot choice is kept so the colour still follows the learner from part
+   01 into the later parts). Resume stays ON (same reporting library); set this to false to bring
+   back "continue where you stopped". */
+var RESUME_FRESH_ON_LOAD = true;
+
 /* ── Navigation between parts: off in production, open only for a local walkthrough ──
    The platform (Kata) decides which component comes next: it launches each component on its own,
    with its own ?registration, reads our 'completed' and routes by the catalogue

@@ -66,6 +66,10 @@ var _unitState = null;
    query string would find nothing. */
 var _resetRequested = false;
 
+/* Set by initResumeResetHatch when RESUME_FRESH_ON_LOAD is on: this load starts from an empty document
+   (like _resetRequested) but keeps the mascot choice. */
+var _freshStart = false;
+
 /* The current part's slug, derived from the folder path. Folder names are the source of truth
    for this internal slug, and they are all lowercase — like the ids in metadata/.
    ⚠️ toLowerCase() is not cosmetic: the slug comes from location.pathname, i.e. from how the
@@ -135,7 +139,7 @@ function migrateState(old) {
 function readUnitState() {
   var doc = null;
   try {
-    if (_resetRequested) {
+    if (_resetRequested || _freshStart) {
       _unitState = emptyUnitState();
       persistUnitState(_unitState);
       console.log('[resume] state reset');
@@ -481,7 +485,13 @@ function initResumeLeaveHandlers() {
    would never work), and that must happen before anyone reads the query — hence 90-boot.js calls
    this first; _resetRequested carries the intent to readUnitState, which runs later. */
 function initResumeResetHatch() {
-  if (!/[?&]resetState(=|&|$)/.test(window.location.search)) return;
+  if (!/[?&]resetState(=|&|$)/.test(window.location.search)) {
+    if (typeof RESUME_FRESH_ON_LOAD !== 'undefined' && RESUME_FRESH_ON_LOAD) {
+      _freshStart = true;
+      RESULT_KEYS.forEach(_lsDel);   // the verdict cache too, or the getters would read it before the document
+    }
+    return;
+  }
   _resetRequested = true;
   try { window.sessionStorage.removeItem(NAV_EDGE_KEY); } catch (e) {}
   /* The cache too, not only the document: the getters fall back to localStorage when there is no
